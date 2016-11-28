@@ -1,0 +1,33 @@
+
+body {
+    padding-left : 10px;
+    padding-right: 1%;
+    margin-left: 1%;
+    margin-right: 100px;
+}
+
+
+.section, aside{
+    float: left;
+    margin-left: 50px;
+    color: blue;
+    font-family: cursive;
+    }
+
+img {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-right: 70px;
+    width: 200px;
+    height: 200px;
+}
+
+.btn {
+    margin: 20px;
+    padding: 20px;
+}
+
+.h2{
+    text-align: center;
+}
+

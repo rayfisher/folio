@@ -1,0 +1,40 @@
+
+body{
+    background-color: black;
+    color: azure;
+    border-radius: 2%;
+    margin-top: 5%;
+    margin-right: 4%;
+    margin-left: 4%;
+    margin-bottom: 5%;
+}
+
+.items{
+    width: 400px;
+    margin: 10px;
+    padding: 1px;
+
+
+}
+
+img{
+    float: left;
+    margin: 10px;
+    width: 300px;
+
+}
+
+p{
+    color: white;
+
+}
+
+.section, aside {
+    width: 45%;
+
+    padding: 1%;
+    margin: 1%;
+    float: left;
+    background-color: black;
+}
+
