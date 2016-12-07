@@ -3,3 +3,22 @@ img{
     height: 250px;
     margin: 30px;
 }
+
+.darkBg {
+    background: #999;
+    height: 500px;
+    margin-top: 300px;
+
+}
+
+.space {
+    margin-top:10px;
+    width: 50%;
+    height: 100px;
+    margin: auto;
+    text-align: justify;
+}
+
+.items {
+
+}
