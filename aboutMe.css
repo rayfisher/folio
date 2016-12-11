@@ -10,15 +10,13 @@ img{
     margin-top: 300px;
 
 }
-
 .space {
-    margin-top:10px;
+    margin: auto;
+    margin-top: 10px;
     width: 50%;
     height: 100px;
-    margin: auto;
     text-align: justify;
 }
-
-.items {
-
+.row {
+   padding-right: 50px;
 }
