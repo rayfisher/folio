@@ -36,5 +36,11 @@ p{
 
 .texter {
     /*width: 300px;*/
+    width: 65%;
+    margin: 0 auto;
+}
+
+.bar{
+    width: 90%;
     margin: 0 auto;
 }

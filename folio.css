@@ -84,3 +84,11 @@ img {
     img {: width 50 px;
     }
 }
+
+.bar {
+    width: 60%;
+}
+
+.liveTrades {
+    margin: 0 auto;
+}

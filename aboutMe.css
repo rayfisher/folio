@@ -20,3 +20,8 @@ img{
 .row {
    padding-right: 50px;
 }
+
+.bar {
+    margin: 0 auto;
+    width: 90%;
+}
