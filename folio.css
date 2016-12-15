@@ -86,9 +86,24 @@ img {
 }
 
 .bar {
-    width: 60%;
+    width: 90%;
+    margin: 0 auto;
 }
 
-.liveTrades {
+#liveTrader {
     margin: 0 auto;
+}
+
+#signUp {
+    margin: 0 auto;
+}
+
+.mycontainer {
+    margin-top: 10%;
+    margin-left: 40%;
+    
+}
+
+.proContainer {
+    margin-left: 5%;
 }
