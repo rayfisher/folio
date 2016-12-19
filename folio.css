@@ -1,6 +1,6 @@
 
 body {
-    padding-left : 10px;
+    padding-left : 1%;
     padding-right: 1%;
     margin-left: 1%;
     margin-right: 1%;
@@ -8,9 +8,8 @@ body {
 .top {
     background-color: black;
     height: 310px;
-    width: 60%;
-    float: left;
-    margin: auto;
+    width: 70%;
+    margin: 0 auto;
     border-radius: 1%;
 }
 #top1{
@@ -22,9 +21,8 @@ body {
 .bottom {
     background-color: silver;
     height: 310px;
-    width: 60%;
-    float: left;
-    margin: auto;
+    width: 70%;
+    margin: 0 auto;
     border-radius: 1%;
 }
 #bottom1 {
@@ -55,10 +53,6 @@ img {
 .btn {
     margin: 20px;
     padding: 20px;
-}
-
-.h2{
-    text-align: center;
 }
 
 .star {
@@ -101,13 +95,18 @@ img {
 .mycontainer {
     margin-top: 10%;
     margin-left: 40%;
-    
 }
-
 .proContainer {
     margin-left: 5%;
 }
 #inputz {
     width: 50%;
     margin: 0 auto;
+}
+#contactUs {
+    margin: 0 auto;
+}
+.barPro     {
+    margin-left: 19.2%;
+    width: 66.5%
 }
