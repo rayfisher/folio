@@ -88,7 +88,7 @@ img {
 }
 
 #signUp {
-    margin: 0 auto;
+    margin-left: 35%;
 }
 
 .mycontainer {
@@ -100,12 +100,28 @@ img {
 }
 #inputz {
     width: 50%;
+    padding-top: 5%;
     margin: 0 auto;
 }
 #contactUs {
-    margin: 0 auto;
+    margin-left: 35%;
 }
 .barPro     {
     margin: 0 auto;
     width: 80.7%;
+}
+
+#comments{
+    width: 307%;
+    border-radius: 2%;
+}
+.btnSubmit{
+    margin-left: 100%;
+    padding-top: 10%;
+}
+.dictionary{
+    -ms-text-justify:;
+     margin-left: 20%;
+     margin-right: 20%;
+
 }
