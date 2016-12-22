@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learningCenter.html" afterPath="$PROJECT_DIR$/learningCenter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/signUp.html" afterPath="$PROJECT_DIR$/signUp.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,8 +115,8 @@
       <file leaf-file-name="learningCenter.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learningCenter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state relative-caret-position="180">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -370,7 +366,7 @@
       <workItem from="1482251091460" duration="1285000" />
       <workItem from="1482336970960" duration="1201000" />
       <workItem from="1482380187880" duration="373000" />
-      <workItem from="1482421322786" duration="2788000" />
+      <workItem from="1482421322786" duration="2877000" />
     </task>
     <task id="LOCAL-00001" summary="updated to index">
       <created>1480355208360</created>
@@ -512,11 +508,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482251114416</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="created dictionary">
+      <created>1482427188728</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1482427188728</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138922000" />
+    <option name="totallyTimeSpent" value="139011000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1188" height="636" extended-state="0" />
@@ -586,7 +589,8 @@
     <MESSAGE value="working on contact page" />
     <MESSAGE value="fixed pro page" />
     <MESSAGE value="fixed pro page width" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed pro page width" />
+    <MESSAGE value="created dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="created dictionary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -931,8 +935,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learningCenter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        <state relative-caret-position="180">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
