@@ -81,6 +81,7 @@ img {
 .bar {
     width: 90%;
     margin: 0 auto;
+    background: navy;
 }
 
 #liveTrader {
@@ -119,9 +120,25 @@ img {
     margin-left: 100%;
     padding-top: 10%;
 }
-.dictionary{
-    -ms-text-justify:;
+ /* .dictionary{
+   -ms-text-justify:;
      margin-left: 20%;
-     margin-right: 20%;
+     margin-right: 20%
+} */
+.dictionaryLeft{
+    float: left;
+    background-color: ghostwhite;
+    text-align: justify;
+}
+.dictionaryRight {
+    padding-top: 15px;
+    background-color: ghostwhite;
+    text-align: justify;
+}
 
+.dictionary {
+    background-color: whitesmoke;
+}
+.navbarLearn {
+    color: red;
 }
