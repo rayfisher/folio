@@ -1,27 +1,24 @@
+
 img{
     width: 250px;
     height: 250px;
     margin: 30px;
 }
-
-.darkBg {
-    background: #999;
-    height: 500px;
-    margin-top: 300px;
-
-}
 .space {
-    margin: auto;
+    margin-left: 40%;
+
     margin-top: 10px;
     width: 50%;
     height: 100px;
     text-align: justify;
 }
 .row {
-   padding-right: 50px;
+    margin-right: 50%;
 }
-
 .bar {
     margin: 0 auto;
-    width: 90%;
+    width: 95%;
+}
+.magazines {
+    width: 80%;
 }

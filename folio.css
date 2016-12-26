@@ -13,9 +13,10 @@ body {
     border-radius: 1%;
 }
 #top1{
-    width: 100%;
+    width: 90%;
     padding-top: 25px;
-    margin: auto;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
 }
 .bottom {
     background-color: silver;
@@ -25,9 +26,10 @@ body {
     border-radius: 1%;
 }
 #bottom1 {
-    width: 100%;
-    padding-top: 5px;
-    margin: auto;
+    width: 90%;
+    padding-top: 25px;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
 }
 .section {
     float: left;
@@ -79,13 +81,13 @@ img {
 }
 
 .bar {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
-    background: navy;
+    color: navy;
 }
 
 #liveTrader {
-    margin: 0 auto;
+    margin-left: 35%;
 }
 
 #signUp {
@@ -107,11 +109,10 @@ img {
 #contactUs {
     margin-left: 35%;
 }
-.barPro     {
+.barPro {
     margin: 0 auto;
     width: 80.7%;
 }
-
 #comments{
     width: 307%;
     border-radius: 2%;
@@ -127,18 +128,17 @@ img {
 } */
 .dictionaryLeft{
     float: left;
-    background-color: ghostwhite;
+    background-color: lightgray;
     text-align: justify;
 }
 .dictionaryRight {
+    float: left;
     padding-top: 15px;
-    background-color: ghostwhite;
+    background-color: gainsboro;
     text-align: justify;
 }
-
 .dictionary {
-    background-color: whitesmoke;
-}
-.navbarLearn {
-    color: red;
+   margin: 3% 12%;
+
+
 }
