@@ -2,22 +2,23 @@
 img{
     width: 250px;
     height: 250px;
-    margin: 30px;
+    margin: 40%;
 }
 .space {
     margin-left: 40%;
-
     margin-top: 10px;
     width: 50%;
     height: 100px;
     text-align: justify;
 }
 .row {
-    margin-right: 50%;
+
 }
-.bar {
+.barAbout{
     margin: 0 auto;
     width: 95%;
+    background: black;
+
 }
 .magazines {
     width: 80%;
