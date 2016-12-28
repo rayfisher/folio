@@ -107,8 +107,10 @@ img {
     margin: 0 auto;
 }
 #contactUs {
-    margin-left: 35%;
+    margin-left: 38%;
+    margin-top: 5%;
 }
+
 .barPro {
     margin: 0 auto;
     width: 80.7%;
@@ -154,4 +156,19 @@ img {
     background-color: darkgray;
     width: 95%;
     margin: 0 auto;
+}
+#signIn {
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.modal-header{
+    background-color: black;
+    color: white;
+}
+#myModal {
+    background-color: dimgrey;
+    color: black;
+}
+.btnTrades {
+    background-color: navy
 }
