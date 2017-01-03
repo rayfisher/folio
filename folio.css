@@ -8,7 +8,7 @@ body {
 .top {
     background-color: black;
     height: 310px;
-    width: 85%;
+    width: 65%;
     margin-left: 5%;
     border-radius: 1%;
 }
@@ -21,7 +21,7 @@ body {
 .bottom {
     background-color: silver;
     height: 310px;
-    width: 85%;
+    width: 65%;
     margin-left: 5%;
     border-radius: 1%;
 }
@@ -64,7 +64,9 @@ img {
 }
 
 .star3 {
-    margin-top: -340px;
+    margin-top: -260px;
+    margin-left: 100%;
+
 
 }
 .colorBlack {
@@ -112,8 +114,8 @@ img {
 }
 
 .barPro {
-    margin: 0 auto;
-    width: 80.7%;
+    margin-left: 9.7%;
+    width: 61.7%;
 }
 #comments{
     width: 307%;
