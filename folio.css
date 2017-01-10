@@ -83,7 +83,7 @@ img {
 }
 
 .bar {
-    width: 95%;
+    width: 75%;
     margin: 0 auto;
     color: navy;
 }
@@ -142,11 +142,11 @@ img {
     text-align: justify;
 }
 .dictionary {
-    margin: 3% 12%;
+    margin: 5% 13%;
 }
 .barLearn {
     background-color: darkgray;
-    width: 94%;
+    width: 75%;
     margin: 0 auto;
 }
 
@@ -156,7 +156,7 @@ img {
 
 .barPlanning {
     background-color: darkgray;
-    width: 95%;
+    width: 75%;
     margin: 0 auto;
 }
 #signIn {
