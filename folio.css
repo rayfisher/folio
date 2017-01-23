@@ -142,6 +142,11 @@ img {
 }
 .dictionary {
     margin: 5% 13%;
+    padding-top: 2px;
+}
+#dictionary{
+    margin-left: 40%;
+    padding-top: 1px;
 }
 .barLearn {
     background-color: darkgray;
