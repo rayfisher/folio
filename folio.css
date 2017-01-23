@@ -171,7 +171,11 @@ img {
     background-color: black;
     color: white;
 }
-#myModal {
+#myModal1 {
+    background-color: dimgray;
+    color: black;
+}
+#myModal2 {
     background-color: dimgray;
     color: black;
 }
