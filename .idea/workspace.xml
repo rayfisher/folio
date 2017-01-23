@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/liveTrades.html" afterPath="$PROJECT_DIR$/liveTrades.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learningCenter.html" afterPath="$PROJECT_DIR$/learningCenter.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="learningCenter.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="learningCenter.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learningCenter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="691" column="1" selection-start-line="691" selection-start-column="1" selection-end-line="691" selection-end-column="1" />
+            <state relative-caret-position="645">
+              <caret line="576" column="20" selection-start-line="576" selection-start-column="20" selection-end-line="576" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -94,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="liveTrades.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="liveTrades.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/liveTrades.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -160,9 +159,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aboutMe.css" />
         <option value="$PROJECT_DIR$/portfolio.css" />
-        <option value="$PROJECT_DIR$/learningCenter.html" />
         <option value="$PROJECT_DIR$/folio.css" />
         <option value="$PROJECT_DIR$/liveTrades.html" />
+        <option value="$PROJECT_DIR$/learningCenter.html" />
       </list>
     </option>
   </component>
@@ -396,7 +395,7 @@
       <workItem from="1484844947851" duration="2000" />
       <workItem from="1484844955407" duration="332000" />
       <workItem from="1485126680258" duration="12057000" />
-      <workItem from="1485182283859" duration="3487000" />
+      <workItem from="1485182283859" duration="4048000" />
     </task>
     <task id="LOCAL-00001" summary="updated to index">
       <created>1480355208360</created>
@@ -720,11 +719,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485183863347</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="fixed live trades section">
+      <created>1485188742461</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1485188742461</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209761000" />
+    <option name="totallyTimeSpent" value="210322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -778,7 +784,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added border radius to pro images" />
     <MESSAGE value="fixed portfolio page" />
     <MESSAGE value="added sign in link" />
     <MESSAGE value="fixed responsiveness of portfolio page" />
@@ -803,7 +808,8 @@
     <MESSAGE value="fixed and centered about me page" />
     <MESSAGE value="added colour to learning center" />
     <MESSAGE value="fixed learning center" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed learning center" />
+    <MESSAGE value="fixed live trades section" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed live trades section" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1135,14 +1141,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learningCenter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="691" column="1" selection-start-line="691" selection-start-column="1" selection-end-line="691" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/folio.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -1159,6 +1157,14 @@
             <element signature="e#1974#1981#0" expanded="true" />
             <element signature="e#3001#3008#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learningCenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="576" column="20" selection-start-line="576" selection-start-column="20" selection-end-line="576" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
