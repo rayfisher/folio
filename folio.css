@@ -132,13 +132,12 @@ img {
 } */
 .dictionaryLeft{
     float: left;
-    background-color: lightgray;
-    text-align: justify;
+        text-align: justify;
 }
 .dictionaryRight {
     float: left;
     padding-top: 15px;
-    background-color: gainsboro;
+ /* background-color: gainsboro; */
     text-align: justify;
 }
 .dictionary {
@@ -168,9 +167,115 @@ img {
     color: white;
 }
 #myModal {
-    background-color: dimgrey;
+    background-color: dimgray;
     color: black;
 }
-.btnTrades {
-    background-color: navy
+.btn1{
+    color: green;
+}
+
+.classA{
+    background-color: lightgray;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classB{
+    background-color: #78a7e1;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classC{
+    background-color: hotpink;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classD{
+    background-color: gainsboro;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classE{
+    background-color: #78a7e1;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classF{
+    background-color: #db62c4;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classG{
+    background-color: lightgray;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classH{
+    background-color: #78a7e1;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classI{
+    background-color: #db62c4;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classI2{
+    background-color: lightgray;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classL{
+    background-color: #78a7e1;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classM{
+    background-color: #db62c4;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classN{
+    background-color: lightgray;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classO{
+    background-color: #78a7e1;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classP{
+    background-color: #db62c4;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classR{
+    background-color: lightgray;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classS{
+    background-color: #78a7e1;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classT{
+    background-color: #db62c4;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classU{
+    background-color: lightgray;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classV{
+    background-color: #78a7e1;
+    padding: 5%;
+    border-radius: 10px;
+}
+.classW{
+    background-color: #db62c4;
+    padding: 5%;
+    border-radius: 10px;
 }
