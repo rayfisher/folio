@@ -82,6 +82,11 @@ img {
     }
 }
 
+#calendar {
+    margin-left: 25%;
+    margin-top: 7%;
+}
+
 .bar {
     width: 75%;
     margin: 0 auto;

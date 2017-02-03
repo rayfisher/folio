@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>resume</title>
@@ -9,14 +10,20 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 </head>
+<meta charset="UTF-8">
+<title>Title</title>
+
+
+
 <body>
 
-<nav class="navbar navbar-inverse bar">
+<nav class="navbar navbar-inverse barPro">
     <div class="container-fluid">
         <div class="navbar-header">
             <a class="navbar-brand" href="index.html">Pro Stock Options</a>
+
         </div>
-        <ul class="nav navbar-nav">
+        <ul class="nav navbar-nav barPro">
             <li><a href="aboutMe.html">about me</a></li>
             <li><a href="portfolio.html">portfolio</a></li>
             <li><a href="liveTrades.html">live trades</a></li>
@@ -35,14 +42,14 @@
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">learning center <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                    <li><a href="#">dictionary</a></li>
+                    <li><a href="learningCenter.html">dictionary</a></li>
                     <li><a href="#">tutorials</a></li>
                     <li role="separator" class="divider"></li>
                     <li><a href="#">financial planning</a></li>
-              </ul>
+                </ul>
             </li>
 
-            <li class="active"><a href="resume.html">resume</a></li>
+            <li><a href="resume.html">resume</a></li>
             <li><a href="contact.html">contact</a></li>
             <li><a href="signIn.html">sign in</a></li>
             <li><a href="signUp.html">sign up</a></li>
@@ -51,32 +58,18 @@
 </nav>
 
 
-<div class="mycontainer">
 
+<div id="calendar">
 
-    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">
-        <li class="active">resume</a></li></button>
+<h2 id="earnings"<p>Earnings Calendar</p></h2>
+    <iframe src="https://sslearnings.forexprostools.com?defaultFont=%230f0f0f&borderColor=%23050505&columns=exc_flags,symbols,exc_importance,exc_actual,exc_forecast,exc_previous,
+    companyname,period&features=datepicker&countries=6,4,5&calType=week&lang=1" width="650" height="467" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
+    <div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 11px;color: #333333;text-decoration: none;">Earnings Calendar provided by <a href="https://www.investing.com/"
+   rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com</a>.</span></div>
 
-    <!-- Modal -->
-    <div class="modal fade" id="myModal" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title">Experience</h4>
-                </div>
-                <div class="modal-body">
-                    <p><a href="resume.pdf">rays resume</a></p>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 
-</body>
+
 
 
 
