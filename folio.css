@@ -81,10 +81,18 @@ img {
     img {: width 50 px;
     }
 }
+#calculator {
+    margin-left: 20%;
+    margin-top: 5%;
+}
 
 #calendar {
     margin-left: 25%;
     margin-top: 7%;
+}
+#quotes {
+    margin-left: 27%;
+    margin-top: 3%;
 }
 
 .bar {
