@@ -4,7 +4,6 @@
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -95,8 +94,8 @@
       <file leaf-file-name="folio.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/folio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+            <state relative-caret-position="465">
+              <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -411,14 +410,7 @@
       <workItem from="1485363612071" duration="1312000" />
       <workItem from="1486055073391" duration="2477000" />
       <workItem from="1486132452644" duration="9656000" />
-      <workItem from="1486216894879" duration="3270000" />
-    </task>
-    <task id="LOCAL-00019" summary="fixed pro page">
-      <created>1482168753266</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1482168753266</updated>
+      <workItem from="1486216894879" duration="3540000" />
     </task>
     <task id="LOCAL-00020" summary="fixed pro page width">
       <created>1482251114416</created>
@@ -756,11 +748,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486142659801</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="added ticker tape">
+      <created>1486222611040</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1486222611041</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235997000" />
+    <option name="totallyTimeSpent" value="236267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="46" width="1920" height="989" extended-state="0" />
@@ -814,7 +813,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed pro page as well as other pages" />
     <MESSAGE value="changed the color scheme of the learning center section" />
     <MESSAGE value="more updates" />
     <MESSAGE value="fixed contact us page" />
@@ -839,7 +837,8 @@
     <MESSAGE value="fixed navbar calculators section" />
     <MESSAGE value="added calendar" />
     <MESSAGE value="fixed calendar" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed calendar" />
+    <MESSAGE value="added ticker tape" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ticker tape" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1186,8 +1185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/folio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        <state relative-caret-position="465">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
           <folding />
         </state>
       </provider>
