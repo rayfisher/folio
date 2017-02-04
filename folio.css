@@ -66,8 +66,6 @@ img {
 .star3 {
     margin-top: -260px;
     margin-left: 100%;
-
-
 }
 .colorBlack {
     color: black;
@@ -75,6 +73,10 @@ img {
 
 .colorSilver {
     color: #999999;
+}
+#ticker {
+    margin-left: 10%;
+    padding-right: 28.8%;
 }
 
 @media (max-width: 1000px) {
