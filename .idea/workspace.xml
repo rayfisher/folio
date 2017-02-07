@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chicago1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chicago.jpg" afterPath="$PROJECT_DIR$/chicago.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutMe.css" afterPath="$PROJECT_DIR$/aboutMe.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutMe.html" afterPath="$PROJECT_DIR$/aboutMe.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/liveTrades.html" afterPath="$PROJECT_DIR$/liveTrades.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="folio.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="folio.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/folio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2880">
-              <caret line="192" column="0" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -81,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aboutMe.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="aboutMe.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aboutMe.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -169,9 +164,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/quotes.html" />
         <option value="$PROJECT_DIR$/liveTrades.html" />
-        <option value="$PROJECT_DIR$/folio.css" />
         <option value="$PROJECT_DIR$/aboutMe.html" />
         <option value="$PROJECT_DIR$/aboutMe.css" />
+        <option value="$PROJECT_DIR$/folio.css" />
       </list>
     </option>
   </component>
@@ -423,14 +418,7 @@
       <workItem from="1486487364268" duration="356000" />
       <workItem from="1486488388687" duration="10000" />
       <workItem from="1486488402427" duration="3000" />
-      <workItem from="1486488986072" duration="4282000" />
-    </task>
-    <task id="LOCAL-00023" summary="created dictionary">
-      <created>1482427272403</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1482427272403</updated>
+      <workItem from="1486488986072" duration="4325000" />
     </task>
     <task id="LOCAL-00024" summary="formatting learning center with bootstrap">
       <created>1482712880865</created>
@@ -768,11 +756,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486492643828</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="updates for about me page">
+      <created>1486495759856</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1486495759856</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244328000" />
+    <option name="totallyTimeSpent" value="244371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -826,7 +821,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed contact us page" />
     <MESSAGE value="began coding the live trades section" />
     <MESSAGE value="coding the live trades section" />
     <MESSAGE value="added cboe feed" />
@@ -851,7 +845,8 @@
     <MESSAGE value="added ticker tape" />
     <MESSAGE value="adjusted background size 100%" />
     <MESSAGE value="changed background image" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed background image" />
+    <MESSAGE value="updates for about me page" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates for about me page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1184,14 +1179,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2880">
-          <caret line="192" column="0" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aboutMe.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="677">
@@ -1206,6 +1193,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/folio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding />
         </state>
       </provider>
