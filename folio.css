@@ -201,10 +201,14 @@ img {
 }
 #myModal1 {
     background-color: dimgray;
+    background-image: url('chicago1.jpg');
+    background: no-repeat;
     color: black;
 }
 #myModal2 {
     background-color: dimgray;
+    background-image: url('chicago1.jpg');
+    background: no-repeat;
     color: black;
 }
 .btn1{
