@@ -5,6 +5,10 @@ body {
     margin-left: 1%;
     margin-right: 1%;
     background-size: 100%;
+    background-color: #d6d6d6;
+}
+#probody {
+    background-color: #afafaf;
 }
 .top {
     background-color: black;
