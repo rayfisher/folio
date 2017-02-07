@@ -111,6 +111,8 @@ img {
 
 #liveTrader {
     margin-left: 35%;
+    color: white;
+    font-family: "Apple Chancery";
 }
 
 #signUp {
@@ -318,4 +320,12 @@ img {
 
 #social{
     margin-left: 9%;
+}
+@h3 {
+    color: white;
+}
+.words {
+    color: white;
+    font-family: "Apple Chancery";
+    font-size: larger;
 }
