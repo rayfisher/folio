@@ -16,7 +16,7 @@ img{
 }
 
 p{
-    color: black;
+    color: white;
     clear: both;
     text-align: justify;
 }
@@ -35,4 +35,7 @@ p{
 }
 .projects {
     margin-left: 7%;
+}
+.portfolioRow2 {
+    margin-top: 2px;
 }
