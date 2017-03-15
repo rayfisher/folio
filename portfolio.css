@@ -32,14 +32,14 @@ body {
     height: auto;
 }
 .imgtwo {
-    background-image: url('rover.jpg');
+    background-image: url(metals.jpg);
     width: 100%;
     height: auto;
-    margin-top: 400px;
-    margin-bottom: 100px;
+    margin-top: 200px;
+    margin-bottom: 10px;
 }
 .whitesection {
-    background-color: #2d2d2d;
+    background-color: #323232;
     padding: 15px;
     min-height: 900px;
     width: 100%;
