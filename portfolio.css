@@ -52,7 +52,7 @@ body {
     height: auto;
     margin-top: 400px;
    }
-.blacksection {
+.whitesection {
     background-color: #f4f4f4;
     min-height: 500px;
     width: 100%;
@@ -79,7 +79,8 @@ h2 {
     color: white;
 }
 .space {
-    color: #2631ee;
+    color: #000000;
+    font-family: "Bodoni 72";
 
   }
 
