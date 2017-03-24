@@ -111,6 +111,7 @@ img {
 .bar {
     width: 75%;
     margin: 0 auto;
+    font-family: 'Architects Daughter', cursive;
       }
 
 #liveTrader {
@@ -150,7 +151,12 @@ img {
 .barPro {
     margin-left: 9.7%;
     width: 61.7%;
+    /*font-family: 'Architects Daughter', cursive;*/
 }
+.proStyle{
+    font-family: 'Architects Daughter', cursive;
+}
+
 #comments{
     width: 307%;
     border-radius: 2%;
