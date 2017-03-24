@@ -17,6 +17,7 @@ body {
     width: 0;
     width: 100%;
     height: auto;
+    background-color: #aaaaaa;
       }
 
 
@@ -119,7 +120,7 @@ h2 {
 }
 .space {
     color: #000000;
-    font-family: "Bodoni 72";
+    /*font-family: "Bodoni 72";*/
 
 }
 
