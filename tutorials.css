@@ -108,12 +108,14 @@ body {
 /*width: 100%;*/
 /*}*/
 h1 {
+    font-family: 'Architects Daughter', cursive;
     text-align: center;
     color: white;
 }
 h2 {
     text-align: center;
     color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
 }
 .space {
     color: #000000;
@@ -123,4 +125,5 @@ h2 {
 
 p{
     color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
 }
