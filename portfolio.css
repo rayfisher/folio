@@ -80,9 +80,12 @@ h2 {
 }
 .space {
     color: #000000;
-    font-family: "Bodoni 72";
-
-  }
+    margin-left: 33%;
+    margin-top: 10px;
+    width: 50%;
+    height: 100px;
+    text-align: justify;
+}
 
 p{
     color: #000;

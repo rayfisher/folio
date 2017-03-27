@@ -20,13 +20,14 @@ body {
     background-color: #aaaaaa;
       }
 
-
 .parallax {
-    min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.innerParent1{
+    height: 200px;
 }
 .imgstocks {
     background-image: url(stocks.png);
@@ -36,27 +37,27 @@ body {
 .imgorders {
     background-image: url(orders.jpg);
     width: 100%;
-    height: auto;
+    height: 500px;
 }
 
 .imgchart{
     background-image: url(charting.jpeg);
     /*background-repeat: no-repeat;*/
     width: 100%;
-    height: 700px;
-    margin-top: 400px;
+    height: 500px;
 }
+
 .imgfinancials{
     background-image: url(financials.jpeg);
-    /*background-repeat: no-repeat;*/
+
     width: 100%;
-    height: 700px;
-    margin-top: 400px;
+    height: 500px;
+
 }
-.imgone {
+.imgoptions {
     background-image: url(miami3.jpg);
     width: 100%;
-    height: auto;
+    height: 500px;
 }
 #rgb {
     background-color: rgba(0,0,0,0.3);
@@ -97,11 +98,15 @@ body {
     color: #171717;
     padding-top: 20px;
 }
-.left {
-    width: 50%;
-    background-color: #999999;
-   margin-top: 50px;
-}
+/*.left {*/
+    /*width: 50%;*/
+    /*margin-top: 10px;*/
+   /*}*/
+/*.right {*/
+
+/*}*/
+
+
 /*.whitesection2 {*/
 /*background-color: #171717;*/
 /*padding: 15px;*/
@@ -115,6 +120,12 @@ h1 {
 }
 h2 {
     text-align: center;
+    color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
+}
+h4 {
+    text-align: center;
+    display: inline;
     color: #ffffff;
     font-family: 'Architects Daughter', cursive;
 }
