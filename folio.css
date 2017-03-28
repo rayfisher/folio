@@ -4,6 +4,9 @@
     background-color: #171717;
 
 }
+.proContainer {
+    margin-left: 5%;
+}
 .top {
     background-color: black;
     height: 310px;
@@ -49,8 +52,6 @@ img {
     padding: 20px;
     border-radius: 20%;
 }
-
-
 .star {
     margin: 0 auto;
 }
@@ -72,6 +73,114 @@ img {
 
 
 
+/* portfolio */
+
+.barPortfolio{
+    width: 75%;
+    margin: 0 auto;
+    background-color: black;
+}
+body {
+    margin: 0;
+    width: 0;
+    width: 100%;
+    height: auto;
+}
+.parallax {
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgone {
+    background-image: url(images/metals.jpg);
+    width: 100%;
+    height: auto;
+}
+#rgb {
+    background-color: rgba(0,0,0,0.3);
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 200px;
+
+}
+#rgb2 {
+    background-color: rgba(0,0,0,0.3);
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 200px;
+
+}
+.imgtwo {
+    background-image: url(images/metals.jpg);
+    width: 100%;
+    height: auto;
+    margin-top: 400px;
+}
+.whitesection {
+    background-color: #f4f4f4;
+    min-height: 500px;
+    width: 100%;
+}
+.content {
+    background-color: rbga(0, 0, 0, 0.5);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #171717;
+    padding-top: 20px;
+}
+.left {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Architects Daughter', cursive;
+}
+.space {
+    color: #000000;
+    margin-left: 33%;
+    margin-top: 10px;
+    width: 50%;
+    height: 100px;
+    text-align: justify;
+    font-family: 'Bad Script', cursive;
+}
+p{
+    color: #000;
+    }
+
+
+/* live trades */
+
+.modal-header{
+    background-color: black;
+    color: white;
+}
+#myModal1 {
+    /*background-color: dimgray;*/
+    background-image: url('images/chicago1.jpg');
+    background: no-repeat;
+    color: black;
+}
+#myModal2 {
+    /*background-color: dimgray;*/
+    background-image: url('images/chicago1.jpg');
+    background: no-repeat;
+    color: black;
+}
+.btn1{
+    color: green;
+}
+
+
+/* research center */
 
 #calculator {
     margin-left: 20%;
@@ -103,9 +212,7 @@ img {
     font-family: "Apple Chancery";
 }
 
-#signUp {
-    margin-left: 30%;
-}
+
 /* resume */
 .btn {
     margin: 20px;
@@ -121,10 +228,12 @@ img {
     margin: 0 auto;
 }
 
-
-.proContainer {
-    margin-left: 5%;
+#signUp {
+    margin-left: 30%;
 }
+
+
+
 #inputz {
     width: 50%;
     padding-top: 5%;
@@ -152,11 +261,19 @@ img {
     margin-left: 100%;
     padding-top: 10%;
 }
- /* .dictionary{
-   -ms-text-justify:;
-     margin-left: 20%;
-     margin-right: 20%
-} */
+
+
+/* learning center */
+
+.barLearn {
+    background-color: darkgray;
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+/* dictionary */
+
 .dictionaryLeft{
     float: left;
         text-align: justify;
@@ -164,7 +281,6 @@ img {
 .dictionaryRight {
     float: left;
     padding-top: 15px;
- /* background-color: gainsboro; */
     text-align: justify;
 }
 .dictionary {
@@ -176,46 +292,6 @@ img {
     padding-top: 1px;
     color: white;
 }
-.barLearn {
-    background-color: darkgray;
-    width: 75%;
-    margin: 0 auto;
-}
-
-#financialPlanning {
-    margin-left: 35%;
-}
-
-.barPlanning {
-    background-color: darkgray;
-    width: 75%;
-    margin: 0 auto;
-}
-#signIn {
-    margin-left: 40%;
-    margin-top: 5%;
-}
-
-.modal-header{
-    background-color: black;
-    color: white;
-}
-#myModal1 {
-    /*background-color: dimgray;*/
-    background-image: url('chicago1.jpg');
-    background: no-repeat;
-    color: black;
-}
-#myModal2 {
-    /*background-color: dimgray;*/
-    background-image: url('chicago1.jpg');
-    background: no-repeat;
-    color: black;
-}
-.btn1{
-    color: green;
-}
-
 .classA{
     background-color: lightgray;
     padding: 5%;
@@ -321,6 +397,140 @@ img {
     padding: 5%;
     border-radius: 10px;
 }
+
+
+/* tutorials */
+
+.barPortfolio{
+    width: 75%;
+    margin: 0 auto;
+    background-color: black;
+}
+.container{
+    background-color: #121212;
+}
+body {
+    margin: 0;
+    width: 0;
+    width: 100%;
+    height: auto;
+    background-color: #aaaaaa;
+}
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.innerParent1{
+    height: 200px;
+}
+.imgstocks {
+    background-image: url(/images/stocks.png);
+    width: 100%;
+    height: 500px;
+}
+.imgorders {
+    background-image: url(/images/orders.jpg);
+    width: 100%;
+    height: 500px;
+}
+.imgchart{
+    background-image: url(images/charting.jpeg);
+    /*background-repeat: no-repeat;*/
+    width: 100%;
+    height: 500px;
+}
+.imgfinancials{
+    background-image: url(images/financials.jpeg);
+
+    width: 100%;
+    height: 500px;
+}
+.imgoptions {
+    background-image: url(images/miami3.jpg);
+    width: 100%;
+    height: 500px;
+}
+#rgb {
+    background-color: rgba(0,0,0,0.3);
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 200px;
+
+}
+#rgb2 {
+    background-color: rgba(0,0,0,0.3);
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 200px;
+
+}
+.imgtwo {
+    background-image: url(images/miami3.jpg);
+    width: 100%;
+    height: auto;
+    margin-top: 400px;
+}
+.whitesection {
+    background-color: #323232;
+    min-height: 500px;
+    width: 100%;
+}
+.content {
+    background-color: rbga(0, 0, 0, 0.5);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #171717;
+    padding-top: 20px;
+}
+h1 {
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+    color: white;
+}
+h2 {
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
+}
+h4 {
+    text-align: center;
+    display: inline;
+    color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
+}
+.space {
+    color: #000000;
+}
+p{
+    color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
+}
+
+
+/* financial planning */
+
+#financialPlanning {
+    margin-left: 35%;
+}
+
+.barPlanning {
+    background-color: darkgray;
+    width: 75%;
+    margin: 0 auto;
+}
+#signIn {
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+
 
 
 #myBtnLogin{
