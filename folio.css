@@ -80,11 +80,14 @@ img {
     margin: 0 auto;
     background-color: black;
 }
-body {
-    margin: 0;
-    width: 0;
-    width: 100%;
-    height: auto;
+/*body {*/
+    /*margin: 0;*/
+    /*width: 0;*/
+    /*width: 100%;*/
+    /*height: auto;*/
+/*}*/
+.container2{
+    background-color: #f4f4f4;
 }
 .parallax {
     min-height: 700px;
@@ -185,6 +188,8 @@ p{
 #calculator {
     margin-left: 20%;
     margin-top: 5%;
+    background-image: url('images/silver.jpg');
+    background: no-repeat;
 }
 
 #calendar {
@@ -212,55 +217,6 @@ p{
     font-family: "Apple Chancery";
 }
 
-
-/* resume */
-.btn {
-    margin: 20px;
-    padding: 20px;
-}
-.resumes {
-    margin-top: 19%;
-    margin-left: 42%;
-}
-
-.myresume {
-  padding-top: 50%;
-    margin: 0 auto;
-}
-
-#signUp {
-    margin-left: 30%;
-}
-
-
-
-#inputz {
-    width: 50%;
-    padding-top: 5%;
-    margin: 0 auto;
-}
-#contactUs {
-    margin-left: 38%;
-    margin-top: 5%;
-}
-
-.barPro {
-    margin-left: 9.7%;
-    width: 61.7%;
-    /*font-family: 'Architects Daughter', cursive;*/
-}
-.proStyle{
-    font-family: 'Architects Daughter', cursive;
-}
-
-#comments{
-    width: 307%;
-    border-radius: 2%;
-}
-.btnSubmit{
-    margin-left: 100%;
-    padding-top: 10%;
-}
 
 
 /* learning center */
@@ -514,6 +470,7 @@ p{
 }
 
 
+
 /* financial planning */
 
 #financialPlanning {
@@ -530,6 +487,56 @@ p{
     margin-top: 5%;
 }
 
+
+
+/* resume */
+.btn {
+    margin: 20px;
+    padding: 20px;
+}
+.resumes {
+    margin-top: 19%;
+    margin-left: 42%;
+}
+
+.myresume {
+    padding-top: 50%;
+    margin: 0 auto;
+}
+
+#signUp {
+    margin-left: 30%;
+}
+
+
+
+#inputz {
+    width: 50%;
+    padding-top: 5%;
+    margin: 0 auto;
+}
+#contactUs {
+    margin-left: 38%;
+    margin-top: 5%;
+}
+
+.barPro {
+    margin-left: 9.7%;
+    width: 61.7%;
+    /*font-family: 'Architects Daughter', cursive;*/
+}
+.proStyle{
+    font-family: 'Architects Daughter', cursive;
+}
+
+#comments{
+    width: 307%;
+    border-radius: 2%;
+}
+.btnSubmit{
+    margin-left: 100%;
+    padding-top: 10%;
+}
 
 
 
