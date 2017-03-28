@@ -426,12 +426,12 @@ body {
     height: 200px;
 }
 .imgstocks {
-    background-image: url(/images/stocks.png);
+    background-image: url(images/stocks.png);
     width: 100%;
     height: 500px;
 }
 .imgorders {
-    background-image: url(/images/orders.jpg);
+    background-image: url(images/orders.jpg);
     width: 100%;
     height: 500px;
 }
