@@ -86,6 +86,11 @@ img {
     /*width: 100%;*/
     /*height: auto;*/
 /*}*/
+
+.whitesection2{
+    background-color: #d6d6d6;
+}
+
 .container2{
     background-color: #f4f4f4;
 }
@@ -433,7 +438,7 @@ body {
     margin-top: 400px;
 }
 .whitesection {
-    background-color: #323232;
+    background-color: #1e1e1e;
     min-height: 500px;
     width: 100%;
 }
