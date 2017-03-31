@@ -92,7 +92,7 @@ img {
 }
 
 .container2{
-    background-color: #f4f4f4;
+    background-color: #ffffff;
 }
 .parallax {
     min-height: 700px;
@@ -124,14 +124,9 @@ img {
     margin-top: 200px;
 
 }
-.imgtwo {
-    background-image: url(images/metals.jpg);
-    width: 100%;
-    height: auto;
-    margin-top: 400px;
-}
+
 .whitesection {
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
     min-height: 500px;
     width: 100%;
 }
@@ -375,7 +370,7 @@ body {
     width: 0;
     width: 100%;
     height: auto;
-    background-color: #aaaaaa;
+    background-color: #eaeaea;
 }
 .parallax {
     background-attachment: fixed;
@@ -387,7 +382,7 @@ body {
     height: 200px;
 }
 .imgstocks {
-    background-image: url(images/stocks.png);
+    background-image: url(images/stox.jpg);
     width: 100%;
     height: 500px;
 }
@@ -509,6 +504,8 @@ p{
     margin: 0 auto;
 }
 
+/*sign up*/
+
 #signUp {
     margin-left: 30%;
 }
@@ -520,6 +517,8 @@ p{
     padding-top: 5%;
     margin: 0 auto;
 }
+/*contact us*/
+
 #contactUs {
     margin-left: 38%;
     margin-top: 5%;
