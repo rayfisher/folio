@@ -80,16 +80,16 @@ img {
     margin: 0 auto;
     background-color: black;
 }
-/*body {*/
-    /*margin: 0;*/
-    /*width: 0;*/
-    /*width: 100%;*/
-    /*height: auto;*/
-/*}*/
-
-.whitesection2{
-    background-color: #d6d6d6;
+body {
+    margin: 0;
+    width: 100%;
+    height: auto;
+    color: #1e1e1e;
 }
+
+/*.whitesection2{*/
+    /*background-color: #e6e6e6;*/
+/*}*/
 
 .container2{
     background-color: #ffffff;
@@ -126,7 +126,7 @@ img {
 }
 
 .whitesection {
-    background-color: #f9f9f9;
+    background-color: #080808;
     min-height: 500px;
     width: 100%;
 }
@@ -167,13 +167,11 @@ p{
     color: white;
 }
 #myModal1 {
-    /*background-color: dimgray;*/
     background-image: url('images/chicago1.jpg');
     background: no-repeat;
     color: black;
 }
 #myModal2 {
-    /*background-color: dimgray;*/
     background-image: url('images/chicago1.jpg');
     background: no-repeat;
     color: black;
@@ -230,6 +228,13 @@ p{
 
 /* dictionary */
 
+html{
+    background: no-repeat;
+    background-image: url('images/chicago.jpg');
+
+    background-attachment: fixed;
+    background-size: cover
+}
 .dictionaryLeft{
     float: left;
         text-align: justify;
