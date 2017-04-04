@@ -228,7 +228,7 @@ p{
 
 /* dictionary */
 
-html{
+#dictionary{
     background: no-repeat;
     background-image: url('images/chicago.jpg');
 
@@ -249,7 +249,8 @@ html{
     padding-top: 2px;
 }
 #dictionary{
-    margin-left: 40%;
+    margin-left:4%;
+    margin-bottom: 6%;
     padding-top: 1px;
     color: white;
 }
