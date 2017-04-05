@@ -503,6 +503,21 @@ p{
     width: 100%;
     height: 500px;
 }
+.imgsix {
+    background-image: url(images/credit.jpg);
+    width: 100%;
+    height: 500px;
+}
+.imgseven {
+    background-image: url(images/education2.jpeg);
+    width: 100%;
+    height: 500px;
+}
+.imgeight {
+    background-image: url(images/realestate.jpg);
+    width: 100%;
+    height: 500px;
+}
 
 
 
