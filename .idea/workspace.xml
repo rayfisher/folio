@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/credit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/credit2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/education.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/education2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realestate.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" afterPath="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
@@ -35,10 +30,24 @@
       <file leaf-file-name="folio.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/folio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="517" column="16" selection-start-line="517" selection-start-column="16" selection-end-line="517" selection-end-column="16" />
+            <state relative-caret-position="86">
+              <caret line="493" column="18" selection-start-line="493" selection-start-column="18" selection-end-line="493" selection-end-column="18" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="education.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/education.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="education2.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/education2.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -53,16 +62,6 @@
         <entry file="file://$PROJECT_DIR$/images/credit2.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resume.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -81,16 +80,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signUp.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signUp.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="33" selection-start-line="15" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,8 +108,8 @@
       <file leaf-file-name="financialPlanning.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="140" column="38" selection-start-line="140" selection-start-column="38" selection-end-line="140" selection-end-column="38" />
+            <state relative-caret-position="251">
+              <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -224,30 +213,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="folio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="folio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="folio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="folio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="folio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-center-htmls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -502,14 +467,7 @@
       <workItem from="1490974455544" duration="111000" />
       <workItem from="1491319888238" duration="5828000" />
       <workItem from="1491358184014" duration="1358000" />
-      <workItem from="1491399708394" duration="4222000" />
-    </task>
-    <task id="LOCAL-00094" summary=" changed probaody background color to charcoal">
-      <created>1487956373360</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1487956373362</updated>
+      <workItem from="1491399708394" duration="5480000" />
     </task>
     <task id="LOCAL-00095" summary=" changed probaody background color to charcoal">
       <created>1488210423929</created>
@@ -847,11 +805,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491326024707</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="updated financial planning page">
+      <created>1491404759146</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1491404759147</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="356545000" />
+    <option name="totallyTimeSpent" value="357803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="1103" width="1920" height="989" extended-state="6" />
@@ -939,8 +904,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scottrade.jpg" />
-    <entry file="file://$PROJECT_DIR$/xactware.jpg" />
     <entry file="file://$PROJECT_DIR$/silver.jpg" />
     <entry file="file://$PROJECT_DIR$/charts.html" />
     <entry file="file://$PROJECT_DIR$/charts.jpg" />
@@ -1148,14 +1111,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="140" column="38" selection-start-line="140" selection-start-column="38" selection-end-line="140" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/credit2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1166,10 +1121,28 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/education.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/education2.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/folio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="517" column="16" selection-start-line="517" selection-start-column="16" selection-end-line="517" selection-end-column="16" />
+        <state relative-caret-position="86">
+          <caret line="493" column="18" selection-start-line="493" selection-start-column="18" selection-end-line="493" selection-end-column="18" />
           <folding />
         </state>
       </provider>
