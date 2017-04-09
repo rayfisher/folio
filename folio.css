@@ -87,10 +87,6 @@ body {
     color: #1e1e1e;
 }
 
-/*.whitesection2{*/
-    /*background-color: #e6e6e6;*/
-/*}*/
-
 .container2{
     background-color: #ffffff;
 }
@@ -219,11 +215,7 @@ p{
 
 /* learning center */
 
-.barLearn {
-    background-color: darkgray;
-    width: 75%;
-    margin: 0 auto;
-}
+
 
 
 /* dictionary */
