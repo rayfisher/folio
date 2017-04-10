@@ -6,6 +6,7 @@
 }
 .proContainer {
     margin-left: 5%;
+    margin-top: 125px;
 }
 .top {
     background-color: black;
@@ -111,7 +112,7 @@ body {
     margin-top: 200px;
 
 }
-#rgb2 {
+.rgb2 {
     background-color: rgba(0,0,0,0.3);
     width: 300px;
     height: auto;
@@ -227,13 +228,18 @@ p{
 
 /* dictionary */
 
-html dictionary{
+html {
     background: no-repeat;
-    background-image: url('images/chicago.jpg');
+    /*background-image: url('images/chicago.jpg');*/
 
     background-attachment: fixed;
     background-size: cover
 }
+#dic {
+    background-image: url('images/chicago.jpg');
+}
+
+
 .dictionaryLeft{
     float: left;
         text-align: justify;
