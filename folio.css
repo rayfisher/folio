@@ -88,11 +88,9 @@ body {
     color: #1e1e1e;
 }
 
-.container2{
-    background-color: #ffffff;
-}
+
 .parallax {
-    min-height: 700px;
+    min-height: 600px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -119,6 +117,8 @@ body {
     margin: 0 auto;
     border-radius: 5px;
     margin-top: 200px;
+    color: white;
+    font-family: 'Architects Daughter', cursive;
 
 }
 
@@ -145,8 +145,8 @@ h2 {
 }
 .space {
     color: #000000;
-    margin-left: 33%;
-    margin-top: 10px;
+    margin: auto;
+    margin-top: 70px;
     width: 50%;
     height: 100px;
     text-align: justify;
@@ -156,7 +156,8 @@ p{
     color: #000;
     }
 .magazines{
-    margin-top: 100px;
+    margin-top: 75px;
+    padding-bottom: 25px;
 }
 
 /* live trades */
@@ -183,7 +184,11 @@ p{
 .btn1{
     color: green;
 }
-
+.trades {
+    color: white;
+    font-family: "Apple Chancery";
+    font-size: larger;
+}
 
 /* research center */
 
@@ -464,6 +469,13 @@ h2 {
     color: #ffffff;
     font-family: 'Architects Daughter', cursive;
 }
+h3 {
+    text-align: center;
+    display: inline;
+    color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
+}
+
 h4 {
     text-align: center;
     display: inline;
@@ -600,11 +612,7 @@ p{
 @h3 {
     color: white;
 }
-.words {
-    color: white;
-    font-family: "Apple Chancery";
-    font-size: larger;
-}
+
 
 @media (max-width: 1000px) {
     img {: width 50 px;
