@@ -5,7 +5,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" afterPath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/tutorials.html" afterPath="$PROJECT_DIR$/learning-center-htmls/tutorials.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/liveTrades.html" afterPath="$PROJECT_DIR$/liveTrades.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.html" afterPath="$PROJECT_DIR$/resume.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,91 +30,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="folio.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="folio.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/folio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="453" column="23" selection-start-line="453" selection-start-column="23" selection-end-line="453" selection-end-column="23" />
+            <state relative-caret-position="90">
+              <caret line="161" column="0" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chicago.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/chicago.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="dictionary.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning-center-htmls/dictionary.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculators.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/research-htmls/calculators.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quotes.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/research-htmls/quotes.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="optionChain.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/research-htmls/optionChain.html">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="charts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/research-htmls/charts.html">
+      <file leaf-file-name="liveTrades.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/liveTrades.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="48">
+              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calendar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/research-htmls/calendar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="chicago1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/chicago1.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state relative-caret-position="-1182">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="financialPlanning.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="948">
+              <caret line="97" column="18" selection-start-line="55" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -121,8 +117,8 @@
       <file leaf-file-name="tutorials.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning-center-htmls/tutorials.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="285">
+              <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -168,8 +164,6 @@
         <option value="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
         <option value="$PROJECT_DIR$/signUp.html" />
         <option value="$PROJECT_DIR$/signIn.html" />
-        <option value="$PROJECT_DIR$/resume.html" />
-        <option value="$PROJECT_DIR$/liveTrades.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/research-htmls/quotes.html" />
@@ -177,11 +171,13 @@
         <option value="$PROJECT_DIR$/research-htmls/charts.html" />
         <option value="$PROJECT_DIR$/research-htmls/calendar.html" />
         <option value="$PROJECT_DIR$/research-htmls/calculators.html" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/tutorials.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
-        <option value="$PROJECT_DIR$/folio.css" />
         <option value="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
+        <option value="$PROJECT_DIR$/resume.html" />
+        <option value="$PROJECT_DIR$/folio.css" />
+        <option value="$PROJECT_DIR$/liveTrades.html" />
       </list>
     </option>
   </component>
@@ -523,14 +519,7 @@
       <workItem from="1491399708394" duration="5780000" />
       <workItem from="1491408225566" duration="1538000" />
       <workItem from="1491568801359" duration="391000" />
-      <workItem from="1491773716791" duration="3294000" />
-    </task>
-    <task id="LOCAL-00098" summary=" changed probaody background color to charcoal">
-      <created>1488299897224</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1488299897224</updated>
+      <workItem from="1491773716791" duration="7380000" />
     </task>
     <task id="LOCAL-00099" summary=" changed probaody background color to charcoal">
       <created>1488390246647</created>
@@ -868,11 +857,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491776269352</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="updated dictionary background">
+      <created>1491780381110</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1491780381110</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363326000" />
+    <option name="totallyTimeSpent" value="367412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1191" height="637" extended-state="0" />
@@ -928,7 +924,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="linked option chain page" />
     <MESSAGE value="changed probody background color" />
     <MESSAGE value=" changed probaody background color to charcoal" />
     <MESSAGE value="adjusted probody color" />
@@ -953,7 +948,8 @@
     <MESSAGE value="updated images" />
     <MESSAGE value="updated financial planning page" />
     <MESSAGE value="updated navbars to fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated navbars to fixed" />
+    <MESSAGE value="updated dictionary background" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated dictionary background" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1023,11 +1019,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/chicago1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/coins.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1044,11 +1035,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/charts.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/chicago.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1079,54 +1065,6 @@
     <entry file="file://$PROJECT_DIR$/images/education2.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signIn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liveTrades.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signUp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/research-htmls/quotes.html">
@@ -1169,24 +1107,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/tutorials.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1195,18 +1115,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/signUp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signIn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/tutorials.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/chicago1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/chicago.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learning-center-htmls/dictionary.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1182">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="948">
+          <caret line="97" column="18" selection-start-line="55" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/folio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="453" column="23" selection-start-line="453" selection-start-column="23" selection-end-line="453" selection-end-column="23" />
+        <state relative-caret-position="90">
+          <caret line="161" column="0" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveTrades.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding />
         </state>
       </provider>
