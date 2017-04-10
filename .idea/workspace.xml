@@ -4,10 +4,7 @@
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" afterPath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/tutorials.html" afterPath="$PROJECT_DIR$/learning-center-htmls/tutorials.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/liveTrades.html" afterPath="$PROJECT_DIR$/liveTrades.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.html" afterPath="$PROJECT_DIR$/resume.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,8 +30,8 @@
       <file leaf-file-name="folio.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/folio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="161" column="0" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="428" column="17" selection-start-line="428" selection-start-column="17" selection-end-line="428" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -60,9 +57,11 @@
       <file leaf-file-name="liveTrades.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/liveTrades.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="195">
+              <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+              <folding>
+                <element signature="e#4080#4087#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,7 +86,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="-945">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
@@ -519,14 +518,7 @@
       <workItem from="1491399708394" duration="5780000" />
       <workItem from="1491408225566" duration="1538000" />
       <workItem from="1491568801359" duration="391000" />
-      <workItem from="1491773716791" duration="7380000" />
-    </task>
-    <task id="LOCAL-00099" summary=" changed probaody background color to charcoal">
-      <created>1488390246647</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1488390246648</updated>
+      <workItem from="1491773716791" duration="8724000" />
     </task>
     <task id="LOCAL-00100" summary=" changed probaody background color to charcoal">
       <created>1488390318735</created>
@@ -864,11 +856,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491780381110</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="updated live trades">
+      <created>1491791797176</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1491791797176</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="367412000" />
+    <option name="totallyTimeSpent" value="368756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1191" height="637" extended-state="0" />
@@ -924,7 +923,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed probody background color" />
     <MESSAGE value=" changed probaody background color to charcoal" />
     <MESSAGE value="adjusted probody color" />
     <MESSAGE value="changed background image for about me page" />
@@ -949,7 +947,8 @@
     <MESSAGE value="updated financial planning page" />
     <MESSAGE value="updated navbars to fixed" />
     <MESSAGE value="updated dictionary background" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated dictionary background" />
+    <MESSAGE value="updated live trades" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated live trades" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1185,7 +1184,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="-945">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
@@ -1193,17 +1192,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/folio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="161" column="0" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="428" column="17" selection-start-line="428" selection-start-column="17" selection-end-line="428" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/liveTrades.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding>
+            <element signature="e#4080#4087#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
