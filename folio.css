@@ -8,6 +8,12 @@
     margin-left: 5%;
     margin-top: 125px;
 }
+#logo{
+  height: 150px;
+    width: 150px;
+    margin-top: -40px;
+
+}
 .top {
     background-color: black;
     height: 310px;
@@ -60,7 +66,7 @@ img {
     margin: auto;
 }
 
-.star3 {
+.tv {
     margin-top: -260px;
     margin-left: 100%;
 }
@@ -376,6 +382,8 @@ html {
 
 .container{
     background-color: #121212;
+    width: 70%;
+
 }
 body {
     margin: 0;
