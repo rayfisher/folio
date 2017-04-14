@@ -4,15 +4,33 @@
     background-color: #171717;
 
 }
+.barPro {
+    margin-left: 9.7%;
+    width: 61.7%;
+    /*font-family: 'Architects Daughter', cursive;*/
+}
+.bar {
+    width: 61.7%;
+    margin: 0 auto;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.proStyle{
+    font-family: 'Architects Daughter', cursive;
+}
 .proContainer {
     margin-left: 5%;
     margin-top: 125px;
 }
-#logo{
-  height: 150px;
-    width: 150px;
+.logos{
+    height: 160px;
+    width: 160px;
+    margin-top: -47px;
+}
+.logo2{
+    height: 100px;
+    width: 100px;
     margin-top: -40px;
-
 }
 .top {
     background-color: black;
@@ -82,11 +100,12 @@ img {
 
 /* portfolio */
 
-.barPortfolio{
-    width: 75%;
-    margin: 0 auto;
-    background-color: black;
-}
+/*.barPortfolio{*/
+    /*width: 50%;*/
+    /*height: 200px;*/
+    /*margin: 0 auto;*/
+    /*background-color: black;*/
+/*}*/
 body {
     margin: 0;
     width: 100%;
@@ -138,7 +157,7 @@ body {
     width: 100%;
     height: auto;
     text-align: center;
-    color: #171717;
+    color: #fafafa;
     padding-top: 20px;
 }
 .left {
@@ -164,6 +183,7 @@ p{
 .magazines{
     margin-top: 75px;
     padding-bottom: 25px;
+    padding-right: 50px;
 }
 
 /* live trades */
@@ -218,11 +238,6 @@ p{
     margin-top: 1%;
 }
 
-.bar {
-    width: 75%;
-    margin: 0 auto;
-    font-family: 'Architects Daughter', cursive;
-      }
 
 #liveTrader {
     margin-left: 35%;
@@ -590,14 +605,7 @@ p{
     margin-top: 5%;
 }
 
-.barPro {
-    margin-left: 9.7%;
-    width: 61.7%;
-    /*font-family: 'Architects Daughter', cursive;*/
-}
-.proStyle{
-    font-family: 'Architects Daughter', cursive;
-}
+
 
 #comments{
     width: 307%;
