@@ -88,24 +88,11 @@ img {
     margin-top: -260px;
     margin-left: 100%;
 }
-.colorBlack {
-    color: black;
-}
-
-.colorSilver {
-    color: #999999;
-}
 
 
 
 /* portfolio */
 
-/*.barPortfolio{*/
-    /*width: 50%;*/
-    /*height: 200px;*/
-    /*margin: 0 auto;*/
-    /*background-color: black;*/
-/*}*/
 body {
     margin: 0;
     width: 100%;
@@ -142,7 +129,7 @@ body {
     margin: 0 auto;
     border-radius: 5px;
     margin-top: 200px;
-    color: white;
+    color: #000000;
     font-family: 'Architects Daughter', cursive;
 
 }
@@ -237,19 +224,6 @@ p{
     margin-left: 27%;
     margin-top: 1%;
 }
-
-
-#liveTrader {
-    margin-left: 35%;
-    color: white;
-    font-family: "Apple Chancery";
-}
-
-
-
-/* learning center */
-
-
 
 
 /* dictionary */
@@ -522,7 +496,7 @@ p{
 }
 
 .imgthree {
-    background-image: url(images/financial_planning.jpg);
+    background-image: url(images/stoxxx.jpg);
     width: 100%;
     height: 500px;
 }
