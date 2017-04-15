@@ -229,15 +229,24 @@ p{
 
 /* dictionary */
 
-html {
-    background: no-repeat;
+#container2{
+       background-image:  url('images/chicago.jpg');
+    width: 70%;
+    margin: auto;
+}
+/*#dicImage {*/
     /*background-image: url('images/chicago.jpg');*/
-    background-attachment: fixed;
-    background-size: cover
-}
-#dic {
-    background-image: url('images/chicago.jpg');
-}
+    /*background: fixed;*/
+    /*background-size: cover;*/
+/*}*/
+/*html {*/
+    /*background: no-repeat;*/
+    /*!**!*/
+    /*background-attachment: fixed;*/
+    /*background-size: cover*/
+/*}*/
+/*#dic {*/
+    /*background-image: url('images/chicago.jpg');*/
 
 
 .dictionaryLeft{
@@ -382,7 +391,7 @@ html {
     /*background-color: #06529D;*/
 }
 .innerParent1{
-    height: 200px;
+    height: 300px;
 }
 .imgstocks {
     background-image: url(images/stox.jpg);
@@ -488,6 +497,11 @@ p{
     margin-left: 35%;
 }
 
+.imgmkt{
+    background-image: url("images/markets.jpeg");
+    width: 100%;
+    height: 500px;
+}
 .imgthree {
     background-image: url(images/tixx.jpg);
     width: 100%;
