@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/street.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/stx.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tax.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" afterPath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" afterPath="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/tutorials.html" afterPath="$PROJECT_DIR$/learning-center-htmls/tutorials.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research-htmls/charts.html" afterPath="$PROJECT_DIR$/research-htmls/charts.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="folio.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="folio.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/folio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="394" column="1" selection-start-line="393" selection-start-column="18" selection-end-line="394" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="534" column="0" selection-start-line="534" selection-start-column="0" selection-end-line="534" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="financialPlanning.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="financialPlanning.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+            <state relative-caret-position="176">
+              <caret line="173" column="32" selection-start-line="173" selection-start-column="32" selection-end-line="173" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -110,8 +105,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="104" column="14" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -178,9 +173,9 @@
         <option value="$PROJECT_DIR$/research-htmls/charts.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/tutorials.html" />
-        <option value="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/folio.css" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
       </list>
     </option>
   </component>
@@ -265,6 +260,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="learning-center-htmls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="folio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="folio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -532,14 +541,7 @@
       <workItem from="1492133688108" duration="928000" />
       <workItem from="1492178141509" duration="9018000" />
       <workItem from="1492213426221" duration="8145000" />
-      <workItem from="1492291787736" duration="15000" />
-    </task>
-    <task id="LOCAL-00113" summary="portfolio update">
-      <created>1489673490862</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1489673490865</updated>
+      <workItem from="1492291787736" duration="3188000" />
     </task>
     <task id="LOCAL-00114" summary="portfolio update">
       <created>1489673659810</created>
@@ -877,11 +879,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492276271079</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="more updates">
+      <created>1492291823923</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1492291823924</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="400848000" />
+    <option name="totallyTimeSpent" value="404021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="23" width="1195" height="645" extended-state="0" />
@@ -891,19 +900,19 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24802528" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3236994" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3975364" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3975364" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -937,7 +946,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rgba update" />
     <MESSAGE value="portfolio page background update to white" />
     <MESSAGE value="created tutorial page" />
     <MESSAGE value=" tutorial page update" />
@@ -962,7 +970,8 @@
     <MESSAGE value="updates" />
     <MESSAGE value="updated logo" />
     <MESSAGE value="planning updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="planning updates" />
+    <MESSAGE value="more updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="more updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1221,22 +1230,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learning-center-htmls/tutorials.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
@@ -1245,10 +1238,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="104" column="14" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/folio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="394" column="1" selection-start-line="393" selection-start-column="18" selection-end-line="394" selection-end-column="1" />
+        <state relative-caret-position="105">
+          <caret line="534" column="0" selection-start-line="534" selection-start-column="0" selection-end-line="534" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="173" column="32" selection-start-line="173" selection-start-column="32" selection-end-line="173" selection-end-column="32" />
           <folding />
         </state>
       </provider>
