@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/charts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/chicagoskyline.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/coins.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/credit2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/paradise.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/liveTrades.html" afterPath="$PROJECT_DIR$/liveTrades.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" afterPath="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="financialPlanning.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="financialPlanning.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -79,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="folio.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="folio.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/folio.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -166,9 +160,9 @@
         <option value="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/tutorials.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
         <option value="$PROJECT_DIR$/liveTrades.html" />
         <option value="$PROJECT_DIR$/folio.css" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
       </list>
     </option>
   </component>
@@ -520,14 +514,7 @@
       <workItem from="1492178141509" duration="9018000" />
       <workItem from="1492213426221" duration="8145000" />
       <workItem from="1492291787736" duration="6648000" />
-      <workItem from="1492439125983" duration="1185000" />
-    </task>
-    <task id="LOCAL-00116" summary="portfolio page background update to white">
-      <created>1489768168973</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1489768168974</updated>
+      <workItem from="1492439125983" duration="1390000" />
     </task>
     <task id="LOCAL-00117" summary="portfolio page background update to white">
       <created>1489768490532</created>
@@ -865,11 +852,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492410327538</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="logo updates&#10;">
+      <created>1492440726675</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1492440726676</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="408666000" />
+    <option name="totallyTimeSpent" value="408871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="1103" width="1920" height="989" extended-state="6" />
@@ -925,7 +919,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created tutorial page" />
     <MESSAGE value=" tutorial page update" />
     <MESSAGE value=" tutorial page font updates" />
     <MESSAGE value="nav bar font updates" />
@@ -950,7 +943,8 @@
     <MESSAGE value="planning updates" />
     <MESSAGE value="more updates" />
     <MESSAGE value="personal finance updates&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="personal finance updates&#10;" />
+    <MESSAGE value="logo updates&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="logo updates&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1196,14 +1190,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/liveTrades.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -1219,6 +1205,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
           <folding />
         </state>
       </provider>
