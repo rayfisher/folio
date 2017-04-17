@@ -12,7 +12,6 @@ body {
 .barPro {
     margin-left: 9.7%;
     width: 61.7%;
-    /*font-family: 'Architects Daughter', cursive;*/
 }
 .bar {
     width: 61.7%;
@@ -147,7 +146,6 @@ img {
     width: 100%;
     height: auto;
     text-align: center;
-    color: #fafafa;
     padding-top: 20px;
 }
 .left {
@@ -382,7 +380,7 @@ p{
 
 .container{
     background-color: #121212;
-    width: 70%;
+    width: 61.5%;
 
 }
 .parallax {
@@ -390,13 +388,9 @@ p{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /*background-color: #06529D;*/
-}
-.innerParent1{
-    height: 300px;
 }
 .imgstocks {
-    background-image: url(images/stx.jpg);
+    background-image: url(images/glober.jpg);
     width: 100%;
     height: 500px;
 }
@@ -429,7 +423,6 @@ p{
     margin: 0 auto;
     border-radius: 5px;
     margin-top: 200px;
-
 }
 #rgb2 {
     background-color: rgba(0,0,0,0.3);
@@ -439,18 +432,12 @@ p{
     border-radius: 5px;
     margin-top: 200px;
     color: white;
-
 }
 .imgtwo {
     background-image: url(images/miami3.jpg);
     width: 100%;
     height: auto;
     margin-top: 400px;
-}
-.whitesection {
-    background-color: #000000;
-    min-height: 500px;
-    width: 100%;
 }
 .stockcontent {
     background-color: rbga(0, 0, 0, 0.5);
@@ -593,12 +580,6 @@ p{
     margin-top: 5%;
 }
 
-
-
-#comments{
-    width: 307%;
-    border-radius: 2%;
-}
 .btnSubmit{
     margin-left: 100%;
     padding-top: 10%;
