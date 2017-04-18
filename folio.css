@@ -527,6 +527,12 @@ p{
     height: 500px;
 }
 
+.imgcode {
+    background-image: url(images/code.jpg);
+    width: 100%;
+    height: 500px;
+}
+
 #signIn {
     margin-left: 40%;
     margin-top: 5%;
