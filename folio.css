@@ -478,6 +478,9 @@ p{
     font-family: 'Architects Daughter', cursive;
 }
 
+#tuts {
+    margin-top: 75px;
+}
 
 
 /* financial planning */
@@ -573,7 +576,6 @@ p{
 }
 
 
-
 #inputz {
     width: 50%;
     padding-top: 5%;
@@ -592,7 +594,6 @@ p{
 }
 
 
-
 #myBtnLogin{
     margin-left: 45%;
 }
@@ -603,8 +604,6 @@ p{
 @h3 {
     color: white;
 }
-
-
 @media (max-width: 1000px) {
     img {: width 50 px;
     }
