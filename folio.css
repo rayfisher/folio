@@ -3,7 +3,6 @@ body {
     margin: 0;
     width: 100%;
     height: auto;
-    background-color: #202020;
 }
 
 h1 {
@@ -188,14 +187,14 @@ img {
     text-align: center;
 }
 
-.space {
-    color: #fafafa;
+#space {
     margin: auto;
     margin-top: 70px;
     width: 50%;
     height: 100px;
     text-align: justify;
     font-family: 'Bad Script', cursive;
+    color: white;
 }
 .magazines{
     margin-top: 75px;
@@ -222,6 +221,14 @@ img {
     background: no-repeat;
     color: black;
 }
+
+.modalGreen {
+    color: green;
+}
+
+.modalBlue {
+    color: blue;
+}
 .btn1{
     color: green;
 }
@@ -242,7 +249,6 @@ img {
     background-image: url('images/silver.jpg');
     background: no-repeat;
 }
-
 #calendar {
     margin-left: 25%;
     margin-top: 7%;
@@ -313,7 +319,7 @@ img {
     border-radius: 10px;
 }
 .classD{
-    background-color: gainsboro;
+    background-color: lightgray;
     padding: 5%;
     border-radius: 10px;
 }
