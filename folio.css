@@ -198,6 +198,10 @@ p{
 .btn1{
     color: green;
 }
+
+.btn2 {
+    color: blue;
+}
 .trades {
     color: white;
     font-family: "Apple Chancery";
