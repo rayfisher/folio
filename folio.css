@@ -5,6 +5,45 @@ body {
     height: auto;
     background-color: #202020;
 }
+
+h1 {
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Architects Daughter', cursive;
+}
+
+h3 {
+    text-align: center;
+    display: inline;
+    color: white;
+    font-family: 'Architects Daughter', cursive;
+}
+
+h4 {
+    text-align: center;
+    display: inline;
+    color: white;
+    font-family: 'Architects Daughter', cursive;
+}
+
+p {
+    color: #000000;
+    font-family: 'Architects Daughter', cursive;
+}
+
+@h3 {
+    color: white;
+}
+@media (max-width: 1000px) {
+    img {: width 50 px;
+    }
+}
 #probody {
     background-color: #171717;
 
@@ -72,8 +111,7 @@ body {
     padding: 2px;
     margin-top: 2px;
     width: 400%;
-    }
-
+}
 img {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -89,19 +127,17 @@ img {
 .star2 {
     margin: auto;
 }
-
 .tv {
     margin-top: -260px;
     margin-left: 100%;
 }
 
 
-
 /* portfolio */
-
-
-
-
+.container {
+    background-color: #121212;
+    width: 61.5%;
+}
 .parallax {
     min-height: 600px;
     background-attachment: fixed;
@@ -151,11 +187,7 @@ img {
 .left {
     text-align: center;
 }
-h2 {
-    text-align: center;
-    color: white;
-    font-family: 'Architects Daughter', cursive;
-}
+
 .space {
     color: #fafafa;
     margin: auto;
@@ -165,9 +197,6 @@ h2 {
     text-align: justify;
     font-family: 'Bad Script', cursive;
 }
-p{
-    color: #000;
-    }
 .magazines{
     margin-top: 75px;
     padding-bottom: 25px;
@@ -175,8 +204,6 @@ p{
 }
 
 /* live trades */
-
-
 .imglive{
     background-image: url('images/chicago1.jpg');
 }
@@ -209,7 +236,6 @@ p{
 }
 
 /* research center */
-
 #calculator {
     margin-left: 20%;
     margin-top: 5%;
@@ -232,9 +258,8 @@ p{
 
 
 /* dictionary */
-
 #container2{
-       background-image:  url('images/chicago.jpg');
+    background-image: url('images/chicago.jpg');
     width: 70%;
     margin: auto;
 }
@@ -380,19 +405,6 @@ p{
 
 
 /* tutorials */
-
-
-.container{
-    background-color: #121212;
-    width: 61.5%;
-
-}
-.parallax {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 .imgstocks {
     background-image: url(images/glober.jpg);
     width: 100%;
@@ -405,7 +417,6 @@ p{
 }
 .imgchart{
     background-image: url(images/charting.jpeg);
-    /*background-repeat: no-repeat;*/
     width: 100%;
     height: 500px;
 }
@@ -443,56 +454,18 @@ p{
     height: auto;
     margin-top: 400px;
 }
-.stockcontent {
-    background-color: rbga(0, 0, 0, 0.5);
-    width: 100%;
-    height: auto;
-    text-align: center;
-    color: #ffffff;
-    padding-top: 60px;
-}
-h1 {
-    font-family: 'Architects Daughter', cursive;
-    text-align: center;
-    color: white;
-}
-h2 {
-    text-align: center;
-    color: #ffffff;
-    font-family: 'Architects Daughter', cursive;
-}
-h3 {
-    text-align: center;
-    display: inline;
-    color: #ffffff;
-    font-family: 'Architects Daughter', cursive;
-}
-
-h4 {
-    text-align: center;
-    display: inline;
-    color: #ffffff;
-    font-family: 'Architects Daughter', cursive;
-}
 .space {
     color: #000000;
 }
-p{
-    color: #000000;
-    font-family: 'Architects Daughter', cursive;
-}
-
 #tuts {
     margin-top: 75px;
 }
 
 
 /* financial planning */
-
 #financialPlanning {
     margin-left: 35%;
 }
-
 .imgmkt{
     background-image: url("images/markets.jpeg");
     width: 100%;
@@ -551,7 +524,6 @@ p{
 
 
 /* resume */
-
 #resumeimg{
     background-image: url('images/chicago.jpg');
     background-repeat: no-repeat;
@@ -574,7 +546,6 @@ p{
 }
 
 /*sign up*/
-
 #signUp {
     margin-left: 30%;
 }
@@ -596,19 +567,9 @@ p{
     margin-left: 100%;
     padding-top: 10%;
 }
-
-
 #myBtnLogin{
     margin-left: 45%;
 }
-
 #social{
     margin-left: 9%;
-}
-@h3 {
-    color: white;
-}
-@media (max-width: 1000px) {
-    img {: width 50 px;
-    }
 }
