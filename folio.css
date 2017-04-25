@@ -1,8 +1,10 @@
 /* pro */
+
 body {
     margin: 0;
     width: 100%;
     height: auto;
+    background-color: #131313;
 }
 
 h1 {
@@ -47,12 +49,18 @@ p {
     background-color: #171717;
 
 }
-.barPro {
-    margin-left: 9.7%;
-    width: 61.7%;
-}
+
+/*.barPro {*/
+/*margin-left: 9.7%;*/
+/*width: 61.7%;*/
+/*}*/
+/*.bar {*/
+/*margin-left: 9.7%;*/
+/*width: 61.7%;*/
+/*}*/
 .bar {
     width: 61.7%;
+    height: 110px;
     margin: 0 auto;
     font-family: 'Architects Daughter', cursive;
 }
@@ -61,19 +69,20 @@ p {
     font-family: 'Architects Daughter', cursive;
 }
 .proContainer {
-    margin-left: 5%;
+    width: 1800px;
+    margin-left: 14.5%;
     margin-top: 125px;
 }
 .logos{
     height: 135px;
     width: 135px;
-    margin-top: -47px;
-    padding-top: 25px;
+    margin-top: -34px;
+    padding-top: 10px;
 }
 .logo2{
-    height: 70px;
-    width: 70px;
-    margin-top: -30px;
+    height: 135px;
+    width: 135px;
+    margin-top: -34px;
     padding-top: 10px;
 }
 .top {
@@ -136,6 +145,7 @@ img {
 .container {
     background-color: #121212;
     width: 61.5%;
+    margin-top: 120px;
 }
 .parallax {
     min-height: 600px;
@@ -197,8 +207,8 @@ img {
     color: white;
 }
 .magazines{
-    margin-top: 75px;
-    padding-bottom: 25px;
+    margin-top: 10px;
+    padding-bottom: 35px;
     padding-right: 50px;
 }
 
@@ -223,14 +233,14 @@ img {
 }
 
 .modalGreen {
-    color: green;
+    color: purple;
 }
 
 .modalBlue {
     color: blue;
 }
 .btn1{
-    color: green;
+    color: purple;
 }
 
 .btn2 {
@@ -244,21 +254,21 @@ img {
 
 /* research center */
 #calculator {
-    margin-left: 20%;
+    text-align: center;
     margin-top: 5%;
     background-image: url('images/silver.jpg');
     background: no-repeat;
 }
 #calendar {
-    margin-left: 25%;
+    text-align: center;
     margin-top: 7%;
 }
 #quotes1 {
-    margin-left: 28.5%;
-    margin-top: 3%;
+    text-align: center;
+    margin-top: 8%;
 }
 #quotes2 {
-    margin-left: 27%;
+    text-align: center;
     margin-top: 1%;
 }
 
@@ -290,7 +300,7 @@ img {
 }
 .dictionaryRight {
     float: left;
-    padding-top: 15px;
+    padding-top: 55px;
     text-align: justify;
 }
 .dictionary {
@@ -534,7 +544,7 @@ img {
     background-image: url('images/chicago.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover">
+    background-size: cover;
 }
 
 .btn {
@@ -553,20 +563,16 @@ img {
 
 /*sign up*/
 #signUp {
-    margin-left: 30%;
+    text-align: center;
+    margin-top: 100px;
 }
 
-
-#inputz {
-    width: 50%;
-    padding-top: 5%;
-    margin: 0 auto;
-}
 /*contact us*/
 
 #contactUs {
     margin-left: 38%;
     margin-top: 5%;
+    color: white;
 }
 
 .btnSubmit{
