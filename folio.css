@@ -4,7 +4,7 @@ body {
     margin: 0;
     width: 100%;
     height: auto;
-    background-color: #131313;
+    background-color: #1f1f1f;
 }
 
 h1 {
@@ -274,11 +274,7 @@ img {
 
 
 /* dictionary */
-#container2{
-    background-image: url('images/chicago.jpg');
-    width: 70%;
-    margin: auto;
-}
+
 /*#dicImage {*/
     /*background-image: url('images/chicago.jpg');*/
     /*background: fixed;*/
@@ -293,7 +289,11 @@ img {
 /*#dic {*/
     /*background-image: url('images/chicago.jpg');*/
 
-
+#container2 {
+    background-image: url('images/chicago.jpg');
+    width: 85%;
+    margin: auto;
+}
 .dictionaryLeft{
     float: left;
         text-align: justify;
@@ -324,7 +324,7 @@ img {
     border-radius: 10px;
 }
 .classC{
-    background-color: #db62c4;
+    background-color: #c07cdb;
     padding: 5%;
     border-radius: 10px;
 }
@@ -339,7 +339,7 @@ img {
     border-radius: 10px;
 }
 .classF{
-    background-color: #db62c4;
+    background-color: #c07cdb;
     padding: 5%;
     border-radius: 10px;
 }
@@ -354,7 +354,7 @@ img {
     border-radius: 10px;
 }
 .classI{
-    background-color: #db62c4;
+    background-color: #c07cdb;
     padding: 5%;
     border-radius: 10px;
 }
@@ -369,7 +369,7 @@ img {
     border-radius: 10px;
 }
 .classM{
-    background-color: #db62c4;
+    background-color: #c07cdb;
     padding: 5%;
     border-radius: 10px;
 }
@@ -384,7 +384,7 @@ img {
     border-radius: 10px;
 }
 .classP{
-    background-color: #db62c4;
+    background-color: #c07cdb;
     padding: 5%;
     border-radius: 10px;
 }
@@ -399,7 +399,7 @@ img {
     border-radius: 10px;
 }
 .classT{
-    background-color: #db62c4;
+    background-color: #c07cdb;
     padding: 5%;
     border-radius: 10px;
 }
@@ -414,7 +414,7 @@ img {
     border-radius: 10px;
 }
 .classW{
-    background-color: #db62c4;
+    background-color: #c07cdb;
     padding: 5%;
     border-radius: 10px;
 }
