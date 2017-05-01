@@ -245,16 +245,18 @@ img {
 .btn1{
     color: purple;
 }
-
 .btn2 {
     color: blue;
 }
 .trades {
     color: white;
-    font-family: "Apple Chancery";
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size: larger;
 }
 
+.tradetext {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
 /* research center */
 #calculator {
     text-align: center;
