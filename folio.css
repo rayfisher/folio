@@ -123,10 +123,8 @@ p {
 img {
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-right: 10px;
     width: 230px;
     height: 230px;
-    /*padding: 20px;*/
     border-radius: 20%;
 }
 .star {
@@ -295,7 +293,6 @@ img {
     /*background-image: url('images/chicago.jpg');*/
 
 #container2 {
-    background-image: url('images/chicago.jpg');
     width: 85%;
     margin: auto;
 }
