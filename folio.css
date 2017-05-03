@@ -183,6 +183,14 @@ img {
     background-color: #080808;
     min-height: 600px;
     width: 100%;
+    margin-bottom: 500px;
+}
+
+.whitesection2 {
+    background-color: #080808;
+    min-height: 600px;
+    width: 100%;
+    margin-bottom: 500px;
 }
 .content {
     background-color: rbga(0, 0, 0, 0.5);
@@ -255,6 +263,13 @@ img {
 .tradetext {
     font-family: 'Open Sans Condensed', sans-serif;
 }
+
+.transactions {
+    margin-top: 100px;
+}
+
+
+
 /* research center */
 #calculator {
     text-align: center;
