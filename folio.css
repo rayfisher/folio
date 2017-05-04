@@ -265,10 +265,13 @@ img {
 }
 
 .transactions {
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
-
+.modalChart {
+    background-image: url('images/modalChart.png');
+    padding-top: 100px;
+}
 
 /* research center */
 #calculator {
