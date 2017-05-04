@@ -543,14 +543,7 @@
       <workItem from="1493646157953" duration="7965000" />
       <workItem from="1493745491377" duration="138000" />
       <workItem from="1493824944985" duration="3501000" />
-      <workItem from="1493907666911" duration="771000" />
-    </task>
-    <task id="LOCAL-00137" summary="updated background images">
-      <created>1490972476921</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1490972476921</updated>
+      <workItem from="1493907666911" duration="788000" />
     </task>
     <task id="LOCAL-00138" summary="updated background image for dictionary">
       <created>1491321402194</created>
@@ -888,11 +881,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493827861853</updated>
     </task>
-    <option name="localTasksCounter" value="186" />
+    <task id="LOCAL-00186" summary="updates">
+      <created>1493908451275</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1493908451276</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="458258000" />
+    <option name="totallyTimeSpent" value="458275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1057" width="1920" height="989" extended-state="0" />
