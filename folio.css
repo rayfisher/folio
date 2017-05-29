@@ -273,6 +273,9 @@ img {
 .modalChart {
     background-image: url('images/modalChart.png');
     padding-top: 100px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 /* research center */
@@ -446,28 +449,28 @@ img {
 .imgstocks {
     background-image: url(images/stoxdiv.jpg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgorders {
     background-image: url(images/orders.jpg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgchart{
     background-image: url(images/charting.jpeg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgfinancials{
     background-image: url(images/financials.jpeg);
 
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgoptions {
     background-image: url(images/miami3.jpg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 #rgb {
     background-color: rgba(0,0,0,0.3);
@@ -490,7 +493,7 @@ img {
     background-image: url(images/miami3.jpg);
     width: 100%;
     height: auto;
-    margin-top: 300px;
+    margin-top: 400px;
 }
 .space {
     color: #000000;
@@ -507,48 +510,48 @@ img {
 .imgmkt{
     background-image: url("images/chicagosky.jpg");
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgthree {
     background-image: url(images/future.jpg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgfour {
     background-image: url(images/credit.jpg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgfive {
     background-image: url(images/financial-planning.gif);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgsix {
     background-image: url(images/education2.jpeg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgseven {
     background-image: url(images/budget.jpg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgeight {
     background-image: url(images/realestate.jpg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 .imgtax {
     background-image: url(images/tax.jpg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 
 .imgcode {
     background-image: url(images/code.jpg);
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 
 #signIn {
