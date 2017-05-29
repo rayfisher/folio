@@ -185,16 +185,14 @@ img {
 
 .whitesection {
     background-color: #080808;
-    min-height: 300px;
+    min-height: 100px;
     width: 100%;
-    margin-bottom: 500px;
 }
 
 .whitesection2 {
     background-color: #080808;
-    min-height: 300px;
+    min-height: 100px;
     width: 100%;
-    margin-bottom: 500px;
 }
 .content {
     background-color: rbga(0, 0, 0, 0.5);
@@ -211,7 +209,7 @@ img {
     margin: auto;
     margin-top: 70px;
     width: 70%;
-    height: 100px;
+    /*height: 100px;*/
     text-align: justify;
     font-family: 'Bad Script', cursive;
     color: white;
