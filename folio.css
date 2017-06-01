@@ -633,6 +633,12 @@ img {
     height: 200px;
 }
 
+#footer {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: white;
+}
+
 /*sign up*/
 #signUp {
     text-align: center;
