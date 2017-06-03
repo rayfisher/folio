@@ -221,18 +221,13 @@ img {
 }
 
 .port {
-    padding-left: 17%;
-    padding-right: 17%;
-}
-
-#metric {
-    padding-left: 17%;
-    padding-right: 17%;
+    padding-left: 7%;
+    padding-right: 7%;
 }
 
 /* live trades */
 .imglive{
-    background-image: url('images/chicago1.jpg');
+    background-image: url('images/newyorker.jpg');
     width: 100%;
     height: 600px;
 }
@@ -247,12 +242,12 @@ img {
     color: white;
 }
 #myModal1 {
-    background-image: url('images/chicago1.jpg');
+    background-image: url('images/newyorker.jpg');
     background: no-repeat;
     color: black;
 }
 #myModal2 {
-    background-image: url('images/chicago1.jpg');
+    background-image: url('images/newyorker.jpg');
     background: no-repeat;
     color: black;
 }
@@ -643,6 +638,9 @@ img {
     margin-bottom: 50px;
     color: white;
     background-color: #545454;
+    background-image: url(images/slc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /*sign up*/
