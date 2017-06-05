@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" afterPath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/liveTrades.html" afterPath="$PROJECT_DIR$/liveTrades.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -582,14 +579,7 @@
       <workItem from="1496578667249" duration="536000" />
       <workItem from="1496598984997" duration="11210000" />
       <workItem from="1496657122917" duration="4096000" />
-      <workItem from="1496671952400" duration="1097000" />
-    </task>
-    <task id="LOCAL-00175" summary="updated live trades buttons">
-      <created>1493042500270</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1493042500271</updated>
+      <workItem from="1496671952400" duration="1578000" />
     </task>
     <task id="LOCAL-00176" summary="updates">
       <created>1493049473767</created>
@@ -927,11 +917,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496666294776</updated>
     </task>
-    <option name="localTasksCounter" value="224" />
+    <task id="LOCAL-00224" summary="updated live trades">
+      <created>1496673124801</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1496673124802</updated>
+    </task>
+    <option name="localTasksCounter" value="225" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="550235000" />
+    <option name="totallyTimeSpent" value="550716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1194" height="637" extended-state="0" />
@@ -989,7 +986,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <MESSAGE value="updated dictionary background" />
-    <MESSAGE value="updated live trades" />
     <MESSAGE value="updated pro page" />
     <MESSAGE value="added logo" />
     <MESSAGE value="adjusted navbar" />
@@ -1013,7 +1009,8 @@
     <MESSAGE value="updated port" />
     <MESSAGE value="updated accounts" />
     <MESSAGE value="updated accounts and dictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated accounts and dictionary" />
+    <MESSAGE value="updated live trades" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated live trades" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
