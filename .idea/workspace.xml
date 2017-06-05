@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascipt/dic.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" afterPath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
     </list>
@@ -100,8 +99,8 @@
       <file leaf-file-name="dictionary.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learning-center-htmls/dictionary.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+            <state relative-caret-position="217">
+              <caret line="579" column="4" selection-start-line="579" selection-start-column="4" selection-end-line="579" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -580,14 +579,7 @@
       <workItem from="1496516385877" duration="6217000" />
       <workItem from="1496578667249" duration="536000" />
       <workItem from="1496598984997" duration="11210000" />
-      <workItem from="1496657122917" duration="2728000" />
-    </task>
-    <task id="LOCAL-00174" summary="added vid">
-      <created>1492972933373</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1492972933374</updated>
+      <workItem from="1496657122917" duration="2834000" />
     </task>
     <task id="LOCAL-00175" summary="updated live trades buttons">
       <created>1493042500270</created>
@@ -925,11 +917,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496627933719</updated>
     </task>
-    <option name="localTasksCounter" value="223" />
+    <task id="LOCAL-00223" summary="updated accounts and dictionary">
+      <created>1496666294775</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1496666294776</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="547770000" />
+    <option name="totallyTimeSpent" value="547876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1194" height="637" extended-state="0" />
@@ -1295,8 +1294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learning-center-htmls/dictionary.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        <state relative-caret-position="217">
+          <caret line="579" column="4" selection-start-line="579" selection-start-column="4" selection-end-line="579" selection-end-column="4" />
           <folding />
         </state>
       </provider>
