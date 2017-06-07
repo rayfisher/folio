@@ -53,21 +53,21 @@ p {
     color: white;
 }
 
-/*#footerPro {*/
+#footerPro {
 
-/*!*margin-top: 50px;*!*/
-/*!*margin-bottom: 10px;*!*/
-/*width: 1100px;*/
-/*margin: 0 auto;*/
-/*color: white;*/
-/*background-color: #363636;*/
-/*border-radius: 5px;*/
-/*padding-left: 2%;*/
-/*padding-right: 2%;*/
-/*padding-top: 5%;*/
-/*padding-bottom: 5%;*/
-/*text-align: right;*/
-/*}*/
+    /*margin-top: 50px;*/
+    /*margin-bottom: 10px;*/
+    width: 65%;
+    margin: 0 auto;
+    color: white;
+    background-color: #1c1c1c;
+    border-radius: 5px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: right;
+}
 
 /*.barPro {*/
 /*margin-left: 9.7%;*/
@@ -400,7 +400,7 @@ img {
 }
 
 #dictionayLetters {
-    margin: auto;
+    margin: 0 auto;
     padding-bottom: 15px;
 }
 
