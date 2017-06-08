@@ -373,6 +373,20 @@ img {
     border-radius: 5px;
 }
 
+.imgira {
+    background-image: url(images/retireira.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgrollover {
+    background-image: url(images/iraz.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
 /* dictionary */
 
 #container3 {
@@ -399,7 +413,7 @@ img {
     color: white;
 }
 
-#dictionayLetters {
+#dictionaryLetters {
     margin: 0 auto;
     padding-bottom: 15px;
 }
