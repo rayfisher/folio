@@ -57,7 +57,7 @@ p {
 
     /*margin-top: 50px;*/
     /*margin-bottom: 10px;*/
-    width: 64%;
+    width: 60%;
     margin: 0 auto;
     color: white;
     background-color: #1c1c1c;
@@ -352,6 +352,12 @@ img {
     border-radius: 5px;
 }
 
+.imgcoverdell {
+    background-image: url(images/university.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
 .imgportfolio {
     background-image: url(images/portfolio.jpg);
     width: 100%;
@@ -366,6 +372,48 @@ img {
     border-radius: 5px;
 }
 
+.imgbrokerage {
+    background-image: url(images/brokerage.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgjoint {
+    background-image: url(images/stock-market.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgcustodial {
+    background-image: url(images/custodial.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgbusiness {
+    background-image: url(images/investt.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgllc {
+    background-image: url(images/bizz.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgcorporate {
+    background-image: url(images/investz.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
 .imgroth {
     background-image: url(images/rothbox.jpg);
     width: 100%;
@@ -374,14 +422,21 @@ img {
 }
 
 .imgira {
-    background-image: url(images/retireira.jpg);
+    background-image: url(images/yes.jpg);
     width: 100%;
     height: 350px;
     border-radius: 5px;
 }
 
 .img401k {
-    background-image: url(images/401k.jpg);
+    background-image: url(images/401kk.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgrollover {
+    background-image: url(images/investy.jpg);
     width: 100%;
     height: 350px;
     border-radius: 5px;
