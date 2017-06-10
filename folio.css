@@ -57,7 +57,7 @@ p {
 
     /*margin-top: 50px;*/
     /*margin-bottom: 10px;*/
-    width: 60%;
+    width: 61%;
     margin: 0 auto;
     color: white;
     background-color: #1c1c1c;
@@ -82,6 +82,7 @@ p {
     height: 110px;
     margin: 0 auto;
     font-family: 'Architects Daughter', cursive;
+
 }
 
 .proStyle{
@@ -239,6 +240,7 @@ img {
 .port {
     padding-left: 7%;
     padding-right: 7%;
+    color: white;
 }
 
 /* live trades */
@@ -409,6 +411,20 @@ img {
 
 .imgcorporate {
     background-image: url(images/investz.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgcorporate2 {
+    background-image: url(images/corpo.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgsimple {
+    background-image: url(images/retiresimple.jpg);
     width: 100%;
     height: 350px;
     border-radius: 5px;
