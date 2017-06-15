@@ -85,12 +85,6 @@ p {
     margin-top: -34px;
     padding-top: 10px;
 }
-.logo2{
-    height: 135px;
-    width: 135px;
-    margin-top: -34px;
-    padding-top: 10px;
-}
 .top {
     background-color: black;
     height: 310px;
@@ -231,7 +225,7 @@ img {
 
 /* live trades */
 .imglive{
-    background-image: url('images/chicagosky 2.jpg');
+    background-image: url('images/chicago1.jpg');
     width: 100%;
     height: 600px;
     border-radius: 5px;
@@ -249,13 +243,13 @@ img {
     color: white;
 }
 #myModal1 {
-    background-image: url('images/newyorker.jpg');
+    background-image: url('images/newyc.jpg');
     background: no-repeat;
     color: black;
     border-radius: 5px;
 }
 #myModal2 {
-    background-image: url('images/newyorker.jpg');
+    background-image: url('images/newyc.jpg');
     background: no-repeat;
     color: black;
     border-radius: 5px;
@@ -361,7 +355,7 @@ img {
 }
 
 .imgbrokerage {
-    background-image: url(images/brokerage.jpg);
+    background-image: url(images/portfolio.jpg);
     width: 100%;
     height: 350px;
     border-radius: 5px;
@@ -382,7 +376,7 @@ img {
 }
 
 .imgbusiness {
-    background-image: url(images/investt.jpg);
+    background-image: url(images/corp2.jpg);
     width: 100%;
     height: 350px;
     border-radius: 5px;
@@ -416,7 +410,7 @@ img {
     border-radius: 5px;
 }
 .imgsimple {
-    background-image: url(images/retiresimple.jpg);
+    background-image: url(images/simple.jpg);
     width: 100%;
     height: 350px;
     border-radius: 5px;
