@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/corp2.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/brokerage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/calculatorimage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/chicago.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/chicagosky 2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/chicagoskylines.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/data.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/financial_planning.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/greece.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jpmorgan.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/lake.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/lake2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/merrill.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/newyorker.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/retiresimple.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/rolls.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/salts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/salts2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/scottrade.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tixx.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/xactware.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/yes.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/chicago1.jpg" afterPath="$PROJECT_DIR$/images/chicago1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faqs.html" afterPath="$PROJECT_DIR$/faqs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/401k.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/401k.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/corporate.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/corporate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/coverdell.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/coverdell.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/custodial.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/custodial.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/individual.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/individual.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/ira.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/ira.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/joint.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/joint.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/llc.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/llc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/rollover.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/rollover.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/roth.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/roth.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/sep.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/sep.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/simple.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/simple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/trusts.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/trusts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accounts.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accounts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" afterPath="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" afterPath="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/liveTrades.html" afterPath="$PROJECT_DIR$/liveTrades.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="folio.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="folio.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/folio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="455">
               <caret line="378" column="42" selection-start-line="378" selection-start-column="42" selection-end-line="378" selection-end-column="42" />
               <folding />
             </state>
@@ -95,17 +49,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ret.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/ret.jpg">
+      <file leaf-file-name="realestate.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/realestate.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="realestate.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/realestate.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-645">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -137,13 +104,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="retireira.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/retireira.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -169,7 +129,6 @@
         <option value="$PROJECT_DIR$/signUp.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/roth2.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/scorp.html" />
-        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/tutorials.html" />
         <option value="$PROJECT_DIR$/research-htmls/calculators.html" />
         <option value="$PROJECT_DIR$/research-htmls/calendar.html" />
@@ -213,6 +172,7 @@
         <option value="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
         <option value="$PROJECT_DIR$/folio.css" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -654,14 +614,7 @@
       <workItem from="1497312183200" duration="8953000" />
       <workItem from="1497438525280" duration="4271000" />
       <workItem from="1497491093684" duration="5184000" />
-      <workItem from="1497548522895" duration="4068000" />
-    </task>
-    <task id="LOCAL-00191" summary="updated code names">
-      <created>1495553518478</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1495553518478</updated>
+      <workItem from="1497548522895" duration="4361000" />
     </task>
     <task id="LOCAL-00192" summary="updated code names">
       <created>1495557527740</created>
@@ -999,11 +952,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497532472134</updated>
     </task>
-    <option name="localTasksCounter" value="240" />
+    <task id="LOCAL-00240" summary="updated accounts">
+      <created>1497562876429</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1497562876429</updated>
+    </task>
+    <option name="localTasksCounter" value="241" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="604320000" />
+    <option name="totallyTimeSpent" value="604613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="23" width="1194" height="637" extended-state="0" />
@@ -1093,16 +1053,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/slc.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/scottrade.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/salts.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1345,8 +1295,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/folio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="455">
           <caret line="378" column="42" selection-start-line="378" selection-start-column="42" selection-end-line="378" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-645">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>
