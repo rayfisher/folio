@@ -2,24 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25aec9da-abeb-4258-b9c3-a3873667ce6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/uslc2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/roth.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/rother.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marketx.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/stocmarket.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/learning-center-htmls/roth.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/401k.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/401k.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/corporate.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/corporate.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/coverdell.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/coverdell.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/custodial.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/custodial.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/individual.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/individual.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/ira.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/ira.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/joint.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/joint.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/llc.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/llc.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/rollover.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/rollover.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/sep.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/sep.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/simple.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/simple.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/learning-center-htmls/trusts.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/trusts.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/folio.css" afterPath="$PROJECT_DIR$/folio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/401k.html" afterPath="$PROJECT_DIR$/learning-center-htmls/401k.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascipt/dic.js" afterPath="$PROJECT_DIR$/javascipt/dic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accountTypes/roth.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accountTypes/roth.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/accounts.html" afterPath="$PROJECT_DIR$/learning-center-htmls/accounts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/corporate.html" afterPath="$PROJECT_DIR$/learning-center-htmls/corporate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/custodial.html" afterPath="$PROJECT_DIR$/learning-center-htmls/custodial.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/individual.html" afterPath="$PROJECT_DIR$/learning-center-htmls/individual.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/ira.html" afterPath="$PROJECT_DIR$/learning-center-htmls/ira.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/joint.html" afterPath="$PROJECT_DIR$/learning-center-htmls/joint.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/llc.html" afterPath="$PROJECT_DIR$/learning-center-htmls/llc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/rollover.html" afterPath="$PROJECT_DIR$/learning-center-htmls/rollover.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/roth.html" afterPath="$PROJECT_DIR$/learning-center-htmls/roth.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/sep.html" afterPath="$PROJECT_DIR$/learning-center-htmls/sep.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/simple.html" afterPath="$PROJECT_DIR$/learning-center-htmls/simple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-center-htmls/trusts.html" afterPath="$PROJECT_DIR$/learning-center-htmls/trusts.html" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,97 +44,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="roth.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-center-htmls/roth.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="31" selection-start-line="0" selection-start-column="4" selection-end-line="76" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="individual.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-center-htmls/individual.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="faqs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/faqs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="accounts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-center-htmls/accounts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="folio.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="folio.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/folio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="762" column="7" selection-start-line="762" selection-start-column="7" selection-end-line="762" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home.html">
+      <file leaf-file-name="sep.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/sep.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="356">
+              <caret line="64" column="95" selection-start-line="64" selection-start-column="95" selection-end-line="64" selection-end-column="95" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="ira.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/ira.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="122">
+              <caret line="374" column="0" selection-start-line="374" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="salts.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/salts.jpg">
+      <file leaf-file-name="retires.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/retires.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="salts2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/salts2.jpg">
+      <file leaf-file-name="ret.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/ret.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="roth.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/roth.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="retireira.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/retireira.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="retiresimple.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/retiresimple.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rollo.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/rollo.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rollova.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/rollova.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rolls.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/rolls.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -154,15 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learningCenter.html" />
-        <option value="$PROJECT_DIR$/aboutMe.css" />
-        <option value="$PROJECT_DIR$/aboutMe.html" />
-        <option value="$PROJECT_DIR$/portfolio.css" />
-        <option value="$PROJECT_DIR$/dictionary.html" />
-        <option value="$PROJECT_DIR$/calculators.html" />
-        <option value="$PROJECT_DIR$/calendar.html" />
-        <option value="$PROJECT_DIR$/charts.html" />
-        <option value="$PROJECT_DIR$/tutorials.html" />
         <option value="$PROJECT_DIR$/tutorials.css" />
         <option value="$PROJECT_DIR$/optionChain.html" />
         <option value="$PROJECT_DIR$/quotes.html" />
@@ -174,9 +152,7 @@
         <option value="$PROJECT_DIR$/learning-center-htmls/financialPlanning.html" />
         <option value="$PROJECT_DIR$/signUp.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/roth2.html" />
-        <option value="$PROJECT_DIR$/javascipt/dic.js" />
         <option value="$PROJECT_DIR$/learning-center-htmls/dictionary.html" />
-        <option value="$PROJECT_DIR$/learning-center-htmls/coverdell.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/scorp.html" />
         <option value="$PROJECT_DIR$/faqs.html" />
         <option value="$PROJECT_DIR$/home.html" />
@@ -191,7 +167,6 @@
         <option value="$PROJECT_DIR$/research-htmls/optionChain.html" />
         <option value="$PROJECT_DIR$/research-htmls/quotes.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/ira.html" />
-        <option value="$PROJECT_DIR$/learning-center-htmls/corporate.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/401k.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/rollover.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/sep.html" />
@@ -204,6 +179,18 @@
         <option value="$PROJECT_DIR$/learning-center-htmls/roth.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/rother.html" />
         <option value="$PROJECT_DIR$/learning-center-htmls/accounts.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/rollover.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/corporate.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/corporate.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/coverdell.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/custodial.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/individual.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/joint.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/llc.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/simple.html" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/trusts.html" />
+        <option value="$PROJECT_DIR$/javascipt/dic.js" />
+        <option value="$PROJECT_DIR$/learning-center-htmls/accountTypes/ira.html" />
         <option value="$PROJECT_DIR$/folio.css" />
       </list>
     </option>
@@ -295,10 +282,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="folio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="folio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascipt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,15 +314,16 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/Versions" />
       <recent name="$PROJECT_DIR$/images/learning-center-htmls" />
       <recent name="$PROJECT_DIR$/htmls" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learning-center-htmls/accountTypes" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.dictionary.html (1)">
@@ -615,14 +617,8 @@
       <workItem from="1497127539896" duration="8713000" />
       <workItem from="1497260363664" duration="3969000" />
       <workItem from="1497312183200" duration="8953000" />
-      <workItem from="1497438525280" duration="4148000" />
-    </task>
-    <task id="LOCAL-00189" summary="updates">
-      <created>1494863797823</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1494863797823</updated>
+      <workItem from="1497438525280" duration="4271000" />
+      <workItem from="1497491093684" duration="4978000" />
     </task>
     <task id="LOCAL-00190" summary="updated code names">
       <created>1495552816161</created>
@@ -960,11 +956,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497361014264</updated>
     </task>
-    <option name="localTasksCounter" value="238" />
+    <task id="LOCAL-00238" summary="updated accounts">
+      <created>1497448132677</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1497448132678</updated>
+    </task>
+    <option name="localTasksCounter" value="239" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="594945000" />
+    <option name="totallyTimeSpent" value="600046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="23" width="1194" height="637" extended-state="0" />
@@ -1043,10 +1046,10 @@
     <MESSAGE value="updated accounts and dictionary" />
     <MESSAGE value="updated live trades" />
     <MESSAGE value="updated dictionary" />
-    <MESSAGE value="updated accounts" />
     <MESSAGE value="updated roth" />
     <MESSAGE value="updated ira" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated ira" />
+    <MESSAGE value="updated accounts" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated accounts" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1054,93 +1057,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/research-htmls/charts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research-htmls/optionChain.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research-htmls/quotes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/simple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/trusts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/tutorials.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accounts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1905">
-          <caret line="127" column="6" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/vest.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/ira.html">
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/ira.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/llc.html">
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/llc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/sep.html">
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/sep.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/simple.html">
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/simple.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
@@ -1188,13 +1126,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/signUp.html" />
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -1227,7 +1158,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1235,7 +1165,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1251,31 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/ira.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="290" column="0" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/corporate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="80" column="99" selection-start-line="80" selection-start-column="99" selection-end-line="80" selection-end-column="99" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/401k.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1283,93 +1187,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-342">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/custodial.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/joint.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="64" column="95" selection-start-line="64" selection-start-column="95" selection-end-line="64" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/llc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/rollover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="232" column="95" selection-start-line="232" selection-start-column="95" selection-end-line="232" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/sep.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="64" column="95" selection-start-line="64" selection-start-column="95" selection-end-line="64" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/simple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="64" column="95" selection-start-line="64" selection-start-column="95" selection-end-line="64" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/trusts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="63" column="95" selection-start-line="63" selection-start-column="95" selection-end-line="63" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/individual.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/roth.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" selection-start-line="0" selection-start-column="4" selection-end-line="76" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/roth.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learning-center-htmls/accounts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
+        <state relative-caret-position="1425">
           <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
           <folding />
         </state>
@@ -1387,23 +1210,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/faqs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="750">
           <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/folio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="630">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
@@ -1411,8 +1226,181 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/rollover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1397">
+          <caret line="232" column="95" selection-start-line="232" selection-start-column="95" selection-end-line="232" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/401k.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/corporate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/coverdell.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/custodial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/joint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="64" column="95" selection-start-line="64" selection-start-column="95" selection-end-line="64" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/llc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/roth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-478">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/roth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="4" column="27" selection-start-line="0" selection-start-column="4" selection-end-line="76" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/individual.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/simple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="64" column="95" selection-start-line="64" selection-start-column="95" selection-end-line="64" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/trusts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascipt/dic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/retires.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ret.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/retireira.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/retiresimple.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/rollo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/rolls.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/rollova.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/sep.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="64" column="95" selection-start-line="64" selection-start-column="95" selection-end-line="64" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-center-htmls/accountTypes/ira.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="374" column="0" selection-start-line="374" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/folio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="762" column="7" selection-start-line="762" selection-start-column="7" selection-end-line="762" selection-end-column="7" />
           <folding />
         </state>
       </provider>
