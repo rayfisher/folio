@@ -57,13 +57,14 @@ p {
     width: 61%;
     height: 15px;
     margin: 0 auto;
-    margin-top: 20%;
+    margin-top: 15%;
     color: white;
     background-color: #1c1c1c;
     border-radius: 5px;
     padding-left: 2%;
     padding-right: 2%;
     padding-top: 2%;
+    padding-bottom: 2%;
     text-align: right;
 }
 .bar {
