@@ -66,6 +66,7 @@ p {
     padding-top: 2%;
     padding-bottom: 2%;
     text-align: right;
+    text-shadow: 2px 2px 4px silver;
 }
 .bar {
     width: 61.7%;
@@ -152,8 +153,8 @@ img {
 .container2 {
     background-color: #121212;
     width: 61.5%;
-    margin-top: 30px;
     margin: 0 auto;
+    margin-top: 30px;
 }
 .parallax {
     min-height: 200px;
@@ -177,6 +178,7 @@ img {
     margin-top: 100px;
     color: #fafafa;
     font-family: 'Architects Daughter', cursive;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .rgb2 {
@@ -188,6 +190,7 @@ img {
     margin-top: 200px;
     color: #000000;
     font-family: 'Architects Daughter', cursive;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .whitesection {
@@ -446,6 +449,40 @@ img {
     height: 350px;
     border-radius: 5px;
 }
+
+/*trusts*/
+.imgrevocable {
+    background-image: url(images/trust.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgcharitable {
+    background-image: url(images/trustee.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgirrevocable {
+    background-image: url(images/irrevocable.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgcharitable {
+    background-image: url(images/charitable.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+
+
+
+
 
 /* dictionary */
 
@@ -750,7 +787,7 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
-    padding-right: 6%;
+    padding-right: 7%;
     padding-left: 2%;
     padding-top: 5%;
     padding-bottom: 5%;
