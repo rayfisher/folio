@@ -239,6 +239,15 @@ img {
 }
 
 /* live trades */
+
+.metrics {
+    height: 100px;
+    color: white;
+}
+
+.hr {
+    color: white;
+}
 .imglive{
     background-image: url('images/chicago1.jpg');
     width: 100%;
