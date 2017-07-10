@@ -87,6 +87,23 @@ p {
     width: 135px;
     margin-top: -34px;
     padding-top: 10px;
+
+}
+
+.logoss {
+    height: 235px;
+    width: 235px;
+    margin-top: -85px;
+    padding-top: 10px;
+    margin-left: 45px;
+}
+
+#logo3 {
+    background-image: url(images/Versions/logo3.png);
+    height: 160px;
+    width: 160px;
+    margin-top: -20px;
+    margin-left: 100%;
 }
 .top {
     background-color: black;
@@ -513,7 +530,7 @@ img {
 }
 
 .imgvariable {
-    background-image: url(images/insurance4.jpg);
+    background-image: url(images/insure.jpg);
     width: 100%;
     height: 350px;
     border-radius: 5px;
@@ -526,7 +543,7 @@ img {
     border-radius: 5px;
 }
 
-.img {
+.imguniversal {
     background-image: url(images/universal.jpg);
     width: 100%;
     height: 350px;
@@ -542,6 +559,13 @@ img {
 
 .imgsimplified {
     background-image: url(images/ins.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgequity {
+    background-image: url(images/ins3.jpg);
     width: 100%;
     height: 350px;
     border-radius: 5px;
