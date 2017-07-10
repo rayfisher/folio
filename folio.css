@@ -504,8 +504,48 @@ img {
     border-radius: 5px;
 }
 
+/*insurance*/
+.imginsurance {
+    background-image: url(images/life_insurance.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
 
+.imgvariable {
+    background-image: url(images/insurance4.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
 
+.imgwhole {
+    background-image: url(images/whole.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.img {
+    background-image: url(images/universal.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgterm {
+    background-image: url(images/insurance5.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.imgsimplified {
+    background-image: url(images/ins.jpg);
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+}
 
 
 
