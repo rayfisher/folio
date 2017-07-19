@@ -262,6 +262,45 @@ img {
     color: white;
 }
 
+* {
+    box-sizing: border-box
+}
+
+.container {
+    width: 61.5%;
+    background-color: black;
+}
+
+.skills {
+    text-align: right;
+    padding-right: 20px;
+    line-height: 40px;
+    color: white;
+}
+
+.live {
+    color: white;
+}
+
+.pro {
+    width: 90%;
+    background-color: #4CAF50;
+}
+
+.dow {
+    width: 80%;
+    background-color: #2196F3;
+}
+
+.sp {
+    width: 65%;
+    background-color: #f44336;
+}
+
+.nasdaq {
+    width: 60%;
+    background-color: #808080;
+}
 .hr {
     color: white;
 }
