@@ -764,14 +764,7 @@
       <workItem from="1499860007959" duration="150000" />
       <workItem from="1499952574940" duration="519000" />
       <workItem from="1500342379936" duration="523000" />
-      <workItem from="1500470093022" duration="5938000" />
-    </task>
-    <task id="LOCAL-00217" summary="updated accounts">
-      <created>1496330742929</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1496330742929</updated>
+      <workItem from="1500470093022" duration="5952000" />
     </task>
     <task id="LOCAL-00218" summary="updated accounts">
       <created>1496410772753</created>
@@ -1109,11 +1102,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500557041234</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="hover opacity update">
+      <created>1500557290682</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1500557290682</updated>
+    </task>
+    <option name="localTasksCounter" value="267" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="673806000" />
+    <option name="totallyTimeSpent" value="673820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="23" width="1194" height="636" extended-state="0" />
