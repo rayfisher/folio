@@ -259,16 +259,16 @@ img {
 
 .metrics {
     height: 100px;
-    color: white;
+    color: black;
 }
 
 * {
     box-sizing: border-box
 }
 
-.container {
-    width: 61.5%;
-    background-color: black;
+.containerTrades {
+    width: 50%;
+    background-color: lightgrey;
 }
 
 .skills {
@@ -279,30 +279,35 @@ img {
 }
 
 .live {
-    color: white;
+    color: black;
 }
 
 .pro {
-    width: 90%;
+    width: 9%;
     background-color: #4CAF50;
 }
 
 .dow {
-    width: 80%;
+    width: 9%;
     background-color: #2196F3;
 }
 
 .sp {
-    width: 65%;
+    width: 8%;
     background-color: #f44336;
 }
 
 .nasdaq {
-    width: 60%;
+    width: 9%;
     background-color: #808080;
 }
 .hr {
     color: white;
+}
+
+.metric3 {
+    background-color: white;
+    padding-left: 10%;
 }
 .imglive{
     background-image: url('images/chicago1.jpg');
