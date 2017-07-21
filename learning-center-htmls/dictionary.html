@@ -13,37 +13,49 @@
 </head>
 <body>
 
-<nav class="navbar navbar-inverse bar navbar-fixed-top">
+<nav class="navbar navbar-inverse navbar-fixed-top bar barPro">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="../home.html"><img class="logos" src="../images/logos.png"></a>
-        </div>
-        <ul class="nav navbar-nav">
+            <a class="navbar-brand proStyle" href="../home.html"><img class="logos" src="../images/logos.png"></a>
 
-            <li><a href="../portfolio.html">portfolio</a></li>
-            <li><a href="../liveTrades.html">live trades</a></li>
+            <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
 
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">research center <span class="caret"></span></a>
-                <ul class="dropdown-menu">
 
+            <div class="collapse navbar-collapse navHeaderCollapse">
+
+
+                <ul class="nav navbar-nav navbar-right">
+
+                    <li><a href="../portfolio.html">portfolio</a></li>
+                    <li><a href="../liveTrades.html">live trades</a></li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">research center <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">learning center <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="accounts.html">accounts</a></li>
+                            <li class="active"><a href="dictionary.html">dictionary</a></li>
+                            <li><a href="tutorials.html">tutorials</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="financialPlanning.html">financial planning</a></li>
+                        </ul>
+                    <li><a href="../faqs.html">FAQs</a></li>
                 </ul>
-            </li>
 
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">learning center <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                    <li><a href="accounts.html">accounts</a></li>
-                    <li><a href="dictionary.html">dictionary</a></li>
-                    <li><a href="tutorials.html">tutorials</a></li>
-                    <li role="separator" class="divider"></li>
-                    <li><a href="financialPlanning.html">financial planning</a></li>
-               </ul>
-            <li><a href="../faqs.html">FAQs</a></li>
-        </ul>
-    </div>
+            </div>
 </nav>
-
 <div id="container3">
         <div id="dicImage">
     <div class="dictionary">
