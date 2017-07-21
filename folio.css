@@ -267,47 +267,56 @@ img {
 }
 
 .containerTrades {
-    width: 50%;
-    background-color: lightgrey;
+    width: 40%;
+    background-color: lightgray;
 }
 
 .skills {
     text-align: right;
     padding-right: 20px;
-    line-height: 40px;
+    line-height: 17px;
     color: white;
 }
 
 .live {
     color: black;
+    margin-bottom: 2px;
 }
 
 .pro {
     width: 9%;
-    background-color: #4CAF50;
+    background-color: #1716af;
+    margin-bottom: 10px;
 }
 
 .dow {
     width: 9%;
-    background-color: #2196F3;
+    background-color: #363636;
+    margin-bottom: 10px;
 }
 
 .sp {
     width: 8%;
-    background-color: #f44336;
+    background-color: #b974db;
+    margin-bottom: 10px;
 }
 
 .nasdaq {
     width: 9%;
-    background-color: #808080;
+    background-color: #801c68;
+    margin-bottom: 10px;
 }
 .hr {
     color: white;
 }
 
 .metric3 {
-    background-color: white;
+    background-color: #878787;
+    padding-top: 10px;
     padding-left: 10%;
+    height: 250px;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
 .imglive{
     background-image: url('images/chicago1.jpg');
@@ -354,6 +363,8 @@ img {
     color: blue;
 }
 .trades {
+    margin-top: 20px;
+    margin-bottom: 125px;
     color: white;
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: larger;
