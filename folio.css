@@ -51,7 +51,7 @@ p {
     }
 }
 @media (max-width: 750px){
-    .navbar{
+    .bar{
         width: 100%;
     }
 
