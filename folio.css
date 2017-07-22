@@ -45,6 +45,14 @@ p {
     img {: width 50 px;
     }
 }
+@media (max-width: 500px){
+    body{
+        .container: width: 100%;
+
+    }
+
+
+}
 #probody {
     background-color: #171717;
 }
