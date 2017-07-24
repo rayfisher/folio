@@ -5,7 +5,6 @@
 function stockSelection (stock){
 
 
-
 }
 
 stockSelection(ge)

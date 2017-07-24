@@ -38,40 +38,41 @@ p {
     font-family: 'Architects Daughter', cursive;
 }
 
-@h3 {
+h3 {
     color: white;
 }
-@media (max-width: 800px) {
-    img {: width 50 px;
-    }
-}
-@media (max-width: 800px) {
-    .container {
-        width: 100%;
-    }
-}
-@media (max-width: 800px){
-    .container2{
-        background-color: #121212;
-        width: 100%;
-        margin-top: 120px;
-    }
-}
-@media (max-width: 800px) {
-    .container {
-        background-color: #121212;
-        width: 100%;
-        margin-top: 120px;
-        position: fixed;
-    }
-}
 
-@media (max-width: 800px){
-    .bar{
-        width: 100%;
-    }
+/*@media (max-width: 800px) {*/
+/*img {: width 50 px;*/
+/*}*/
+/*}*/
+/*@media (max-width: 800px) {*/
+/*.container {*/
+/*width: 100%;*/
+/*}*/
+/*}*/
+/*@media (max-width: 800px){*/
+/*.container2{*/
+/*background-color: #121212;*/
+/*width: 100%;*/
+/*margin-top: 120px;*/
+/*}*/
+/*}*/
+/*@media (max-width: 800px) {*/
+/*.container {*/
+/*background-color: #121212;*/
+/*width: 100%;*/
+/*margin-top: 120px;*/
+/*position: fixed;*/
+/*}*/
+/*}*/
 
-}
+/*@media (max-width: 800px){*/
+/*.bar{*/
+/*width: 100%;*/
+/*}*/
+
+/*}*/
 #probody {
     background-color: #171717;
 }
@@ -176,6 +177,10 @@ img {
     box-shadow: 10px 10px;
 }
 
+img:hover {
+    opacity: 0.7;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
 .img2 {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -252,7 +257,7 @@ img {
     width: 100%;
 }
 .content {
-    background-color: rbga(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     width: 100%;
     height: auto;
     text-align: center;
@@ -274,6 +279,8 @@ img {
     margin-top: 10px;
     padding-bottom: 35px;
     padding-right: 50px;
+    opacity: 0.8;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
 .port {
@@ -363,7 +370,8 @@ img {
     background-color: black;
     color: white;
 }
-#myModal1 {
+
+#myModal {
     background-image: url('images/newyc.jpg');
     background: no-repeat;
     color: black;
@@ -435,6 +443,11 @@ img {
 }
 
 /* accounts*/
+
+#accountsContent {
+    color: white;
+
+}
 
 .imgaccounts {
     background-image: url(images/acct.png);
@@ -922,12 +935,12 @@ img {
 
 
 /* resume */
-#resumeimg{
-    background-image: url('images/chicago.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
+/*#resumeimg{*/
+/*background-image: url('images/chicago.jpg');*/
+/*background-repeat: no-repeat;*/
+/*background-attachment: fixed;*/
+/*background-size: cover;*/
+/*}*/
 
 .btn {
     margin: 20px;
