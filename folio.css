@@ -306,7 +306,7 @@ img:hover {
 
 .metrics {
     height: 100px;
-    color: black;
+    color: silver;
 }
 
 * {
@@ -354,7 +354,8 @@ img:hover {
     margin-bottom: 10px;
 }
 .hr {
-    color: white;
+    color: black;
+    background-color: white;
 }
 
 .metric3 {
