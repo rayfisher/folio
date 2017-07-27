@@ -296,8 +296,9 @@ img:hover {
 
 /* live trades */
 
-.containerLive {
+.containLive {
     background-color: white;
+    height: 800px;
     width: 61.5%;
     margin-top: 120px;
     margin: 0 auto;
@@ -354,8 +355,10 @@ img:hover {
     margin-bottom: 10px;
 }
 .hr {
-    color: black;
+    color: blue;
     background-color: white;
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 .metric3 {
@@ -375,7 +378,7 @@ img:hover {
 }
 
 .imglive2 {
-    background-image: url('images/nyc3.jpg');
+    background-image: url('images/nyc4.jpg');
     width: 100%;
     height: 600px;
     border-radius: 5px;
@@ -388,78 +391,76 @@ img:hover {
     cursor: pointer;
     outline: none;
     color: white;
-    background-color: blue;
+    background-color: #b974db;
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-
 }
-
-.button:hover {
-    background-color: grey
-}
-
 .button:active {
-    background-color: black;
+    background-color: grey;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
 }
 
-.modal-header{
-    background-color: black;
-    color: white;
-}
+/*.button:hover {*/
+/*background-color: grey*/
+/*}*/
 
-#myModal {
-    background-image: url('images/newyc.jpg');
-    background: no-repeat;
-    color: black;
-    border-radius: 5px;
-}
-#myModal2 {
-    background-image: url('images/newyc.jpg');
-    background: no-repeat;
-    color: black;
-    border-radius: 5px;
-}
+/*.modal-header{*/
+/*background-color: black;*/
+/*color: white;*/
+/*}*/
 
-.modalGreen {
-    color: purple;
-}
+/*#myModal {*/
+/*background-image: url('images/newyc.jpg');*/
+/*background: no-repeat;*/
+/*color: black;*/
+/*border-radius: 5px;*/
+/*}*/
+/*#myModal2 {*/
+/*background-image: url('images/newyc.jpg');*/
+/*background: no-repeat;*/
+/*color: black;*/
+/*border-radius: 5px;*/
+/*}*/
 
-.modalBlue {
-    color: blue;
-}
-.btn1{
-    color: purple;
-}
-.btn2 {
-    color: blue;
-}
-.trades {
-    margin-top: 20px;
-    margin-bottom: 125px;
-    color: white;
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-size: larger;
-}
+/*.modalGreen {*/
+/*color: purple;*/
+/*}*/
 
-.tradetext {
-    font-family: 'Open Sans Condensed', sans-serif;
-}
+/*.modalBlue {*/
+/*color: blue;*/
+/*}*/
+/*.btn1{*/
+/*color: purple;*/
+/*}*/
+/*.btn2 {*/
+/*color: blue;*/
+/*}*/
+/*.trades {*/
+/*margin-top: 20px;*/
+/*margin-bottom: 125px;*/
+/*color: white;*/
+/*font-family: 'Open Sans Condensed', sans-serif;*/
+/*font-size: larger;*/
+/*}*/
 
-.transactions {
-    margin-top: 150px;
-}
+/*.tradetext {*/
+/*font-family: 'Open Sans Condensed', sans-serif;*/
+/*}*/
 
-.modalChart {
-    background-image: url('images/modalChart.png');
-    padding-top: 100px;
-    margin-bottom: 25px;
-    margin-left: 50px;
-    margin-right: 50px;
-    border-radius: 5px;
-}
+/*.transactions {*/
+/*margin-top: 150px;*/
+/*}*/
+
+/*.modalChart {*/
+/*background-image: url('images/modalChart.png');*/
+/*padding-top: 100px;*/
+/*margin-bottom: 25px;*/
+/*margin-left: 50px;*/
+/*margin-right: 50px;*/
+/*border-radius: 5px;*/
+/*}*/
 
 /* research center */
 #calculator {
