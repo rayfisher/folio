@@ -86,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -678,14 +678,7 @@
       <workItem from="1500652542576" duration="18892000" />
       <workItem from="1500764966707" duration="10555000" />
       <workItem from="1501073954313" duration="4379000" />
-      <workItem from="1501153242769" duration="4814000" />
-    </task>
-    <task id="LOCAL-00222" summary="updated accounts and dictionary">
-      <created>1496627933719</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1496627933719</updated>
+      <workItem from="1501153242769" duration="4852000" />
     </task>
     <task id="LOCAL-00223" summary="updated accounts and dictionary">
       <created>1496666294775</created>
@@ -1023,11 +1016,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501077546965</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="live trades and financial planning updates">
+      <created>1501163756328</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1501163756329</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="719183000" />
+    <option name="totallyTimeSpent" value="719221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1194" height="636" extended-state="0" />
@@ -1084,7 +1084,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="updates&#10;" />
     <MESSAGE value="golf&#10;" />
     <MESSAGE value="golfer&#10;" />
     <MESSAGE value="added vid" />
@@ -1109,7 +1108,8 @@
     <MESSAGE value="added nav button for smaller screens" />
     <MESSAGE value="added button to live trades" />
     <MESSAGE value="changed button to live trades" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed button to live trades" />
+    <MESSAGE value="live trades and financial planning updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="live trades and financial planning updates" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1457,7 +1457,7 @@
     <entry file="file://$PROJECT_DIR$/learning-center-htmls/financialPlanning.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
           <folding />
         </state>
       </provider>
