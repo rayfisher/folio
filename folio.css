@@ -305,11 +305,6 @@ img:hover {
 }
 
 
-.metrics {
-    height: 100px;
-    color: silver;
-}
-
 * {
     box-sizing: border-box
 }
@@ -333,13 +328,13 @@ img:hover {
 
 .pro {
     width: 9%;
-    background-color: #1716af;
+    background-color: #131313;
     margin-bottom: 10px;
 }
 
 .dow {
     width: 9%;
-    background-color: #363636;
+    background-color: #4966ff;
     margin-bottom: 10px;
 }
 
@@ -391,7 +386,7 @@ img:hover {
     cursor: pointer;
     outline: none;
     color: white;
-    background-color: #b974db;
+    background-color: #363636;
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
